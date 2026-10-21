@@ -2,9 +2,13 @@
 
 Kendi Mac bilgisayarına ihtiyacın yok. Derleme GitHub’ın buluttaki Mac bilgisayarında yapılır; iPhone’a yükleme Windows bilgisayarındaki AltServer ve telefondaki AltStore Classic ile yapılır.
 
-**Derleme durumu:** Kaynaklar [TNRGZ/LexiWall](https://github.com/TNRGZ/LexiWall) deposunda paylaşılır. Güncel test ve derleme sonucunu [Actions sayfasından](https://github.com/TNRGZ/LexiWall/actions) kontrol et. Yalnızca başarıyla tamamlanan çalışmalardan IPA indir. iPhone’a kurabilmek için imzasız IPA’yı kendi Apple hesabınla AltStore üzerinden imzalaman gerekir. Uygulamanın gerçek cihazda çeviri ve Fotoğraflar davranışı ayrıca doğrulanmalıdır.
+**Derleme durumu:** [21 Ekim 2026 tarihli bulut derlemesi](https://github.com/TNRGZ/LexiWall/actions/runs/39612452125) başarılı: Xcode 16.4, iPhone 16 Pro / iOS 18.5 simülatöründe 16 test ve sıfır hata. Fiziksel iPhone için IPA hazırdır. [Sürümler sayfasından](https://github.com/TNRGZ/LexiWall/releases) **LexiWall-unsigned.ipa** dosyasını indir. Bu ilk deneme sürümüdür; gerçek cihazda çeviri ve Fotoğraflar davranışı ayrıca doğrulanmalıdır. İmzasız IPA kendi Apple hesabınla AltStore üzerinden imzalanır.
 
-## 1. Projeyi GitHub’a koy
+## 1. Hazır projeyi aç
+
+Proje zaten **herkese açık** olarak [TNRGZ/LexiWall](https://github.com/TNRGZ/LexiWall) adresinde bulunuyor. Yeniden depo açmana veya kaynak dosyalarını yüklemene gerek yok. Hazır IPA bağlantısı varsa onu indirip aşağıdaki **Windows’tan iPhone’a yükle** bölümüne geç.
+
+Kaynak kodu kendin geliştirmek veya kendi GitHub hesabından derlemek istiyorsan depoyu **Fork** edebilirsin. Kaynak ZIP’ini kullanıyorsan aşağıdaki yapıyı koru:
 
 GitHub hesabında ayrı bir `LexiWall` deposu kullan. ZIP’i Windows’ta çıkart. Depoya ZIP dosyasını değil, içindeki proje dosyalarını yükle. Deponun en üstünde şunlar olmalı:
 
@@ -20,7 +24,7 @@ README.md
 
 Özellikle `.github` klasörünü dahil et; Windows Dosya Gezgini’nde noktayla başlayan klasörü de seç. GitHub’ın web arayüzü gizli klasörü yüklemene izin vermezse `.github/workflows/build-ipa.yml` dosyasını GitHub’da **Add file → Create new file** ile aynı yolda oluşturup paketteki içeriği yapıştırabilirsin. Projeyi fazladan bir üst `LexiWall` klasörü içinde bırakma.
 
-Görünürlüğü sen seç: **Private** kaynak kodunu gizli tutar ve hesabındaki Actions kotasını kullanır; kota sonrası ücret olabilir. **Public** kodu herkese açar; standart GitHub Actions çalıştırıcıları bu depolarda ücretsizdir. Bu paket GitHub’da otomatik depo açmaz, kod yayımlamaz veya harcama başlatmaz. [GitHub’ın çalıştırıcı ve kota açıklaması](https://docs.github.com/en/actions/reference/runners/github-hosted-runners).
+Bu depo Public olarak yayımlandı; standart GitHub Actions çalıştırıcıları herkese açık depolarda ücretsizdir. Kendi özel kopyanı açarsan hesabının Actions kotası geçerlidir. [GitHub’ın çalıştırıcı ve kota açıklaması](https://docs.github.com/en/actions/reference/runners/github-hosted-runners).
 
 ## 2. Bulutta derle
 
@@ -32,7 +36,7 @@ Görünürlüğü sen seç: **Private** kaynak kodunu gizli tutar ve hesabındak
 
 Akış önce iOS simülatöründe testleri çalıştırır; bunlar geçerse fiziksel iPhone için uygulamayı derleyip IPA olarak paketler. Test/derleme hatası olduğunda IPA teslim etmez. **LexiWall-diagnostics** paketindeki günlükler hatanın bulunmasını sağlar. Bulutta çalışan simülatör Apple çevirisinin yerine geçmez.
 
-Bu işlem için Apple parolası, sertifika, ücretli Apple Developer üyeliği veya GitHub secret girilmez. İş akışı yalnızca elle başlatılır, 45 dakika sınırı vardır ve çıktılarını yedi gün saklar. Başlatmadan önce GitHub hesabının Actions kotasını kontrol et.
+Bu işlem için Apple parolası, sertifika, ücretli Apple Developer üyeliği veya GitHub secret girilmez. İş akışı yalnızca elle başlatılır, 45 dakika sınırı vardır ve Actions çıktılarını yedi gün saklar. Çıktının süresi dolarsa depoda yazma yetkisi olan kişi yeniden derleyebilir; diğer kullanıcılar kendi Fork kopyalarında derleyebilir.
 
 ## 3. Windows’tan iPhone’a yükle
 

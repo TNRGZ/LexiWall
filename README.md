@@ -2,11 +2,11 @@
 
 İngilizce kelime ve kalıpları Türkçe açıklamalarla kilit ekranına taşıyan SwiftUI uygulaması. Hedef **iPhone 16 Pro, iOS 18 ve üzeri**. Arayüz Türkçe; görseller **1206 × 2622 piksel**.
 
-**Teslim durumu:** Bu paket Xcode proje dosyasını, uygulama kaynaklarını, 360 yerel kartı ve XCTest testlerini içerir. Windows ortamında hazırlanmıştır. Swift sözdizimi ve proje yapısı denetlendi; **Xcode derlemesi, iPhone çalıştırması ve XCTest burada çalıştırılamadı**. Apple imzalı IPA üretilmedi. ZIP doğrudan iPhone’a kurulamaz; Mac/Xcode veya Windows + bulut derleme adımları gerekir. Gerçek cihaz doğrulaması yapılmadan App Store’a hazır kabul edilmemelidir.
+**Teslim durumu:** Kaynaklar MIT lisansıyla herkese açıktır. **21 Ekim 2026’da buluttaki Xcode 16.4 ile derlendi; iPhone 16 Pro / iOS 18.5 simülatöründe 16 test, sıfır hatayla geçti.** Fiziksel iPhone için arm64 IPA üretildi ve paket bütünlüğü doğrulandı. [Başarılı derleme ve test kaydı](https://github.com/TNRGZ/LexiWall/actions/runs/39612452125). İlk deneme sürümüdür; gerçek iPhone’da Photos, Apple çevirisi ve Photo Shuffle henüz denenmedi. IPA Apple dağıtım imzası taşımaz; AltStore ile kendi hesabın üzerinden imzalanmalıdır.
 
 ## Mac bilgisayarın yoksa
 
-**[Windows kurulum rehberini aç](WINDOWS-KURULUM.md).** Projeye GitHub Actions üzerinden buluttaki Mac’te test/derleme yapan ve AltStore ile Windows’tan kurulabilecek imzasız IPA hazırlayan akış eklendi. Kendi Mac’ine sahip olman gerekmez. Bulut derlemesi henüz çalıştırılmadı; kaynak ZIP’inin içinde hazır IPA yok. Ücretsiz Apple hesabıyla AltStore kurulumu haftalık yenileme gerektirir.
+**[Windows kurulum rehberini aç](WINDOWS-KURULUM.md).** [Sürümler sayfasından](https://github.com/TNRGZ/LexiWall/releases) `LexiWall-unsigned.ipa` dosyasını indir. Windows’ta AltServer, iPhone’da AltStore Classic ile kurabilirsin; kendi Mac’ine sahip olman gerekmez. Ücretsiz Apple hesabıyla kurulum yedi günde bir yenilenir. `LexiWall-iOS-Xcode.zip` geliştiriciler için kaynak paketidir; telefona kurulacak dosya `.ipa` uzantılı olandır.
 
 ## Hızlı kurulum — Mac ve fiziksel iPhone
 

@@ -1,0 +1,4674 @@
+[
+  {
+    "term": "home",
+    "meaning": "ev",
+    "secondary": [
+      "memleket"
+    ],
+    "explanation": "Yaşadığın yeri veya ait olduğun yeri anlatır.",
+    "example": "I am going home now.",
+    "exampleTR": "Şimdi eve gidiyorum.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "house",
+    "meaning": "ev",
+    "secondary": [],
+    "explanation": "İnsanların yaşadığı binayı belirtir.",
+    "example": "Their house has a small garden.",
+    "exampleTR": "Onların evinin küçük bir bahçesi var.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "room",
+    "meaning": "oda",
+    "secondary": [
+      "yer, boş alan"
+    ],
+    "explanation": "Bir binanın içindeki ayrı bölümdür.",
+    "example": "This room gets plenty of light.",
+    "exampleTR": "Bu oda bol ışık alıyor.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "door",
+    "meaning": "kapı",
+    "secondary": [],
+    "explanation": "Bir yere girip çıkmayı sağlayan bölümdür.",
+    "example": "Please close the door quietly.",
+    "exampleTR": "Lütfen kapıyı sessizce kapat.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "window",
+    "meaning": "pencere",
+    "secondary": [
+      "fırsat aralığı"
+    ],
+    "explanation": "Işık ve hava girmesini sağlayan açıklıktır.",
+    "example": "Open the window for some fresh air.",
+    "exampleTR": "Biraz temiz hava için pencereyi aç.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "table",
+    "meaning": "masa",
+    "secondary": [
+      "tablo"
+    ],
+    "explanation": "Yemek veya çalışma için kullanılan mobilyadır.",
+    "example": "Your book is on the table.",
+    "exampleTR": "Kitabın masanın üzerinde.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "chair",
+    "meaning": "sandalye",
+    "secondary": [
+      "başkanlık etmek"
+    ],
+    "explanation": "Oturmak için kullanılan mobilyadır.",
+    "example": "Take a chair and sit with us.",
+    "exampleTR": "Bir sandalye al ve yanımıza otur.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "bed",
+    "meaning": "yatak",
+    "secondary": [
+      "nehir yatağı"
+    ],
+    "explanation": "Uyumak için kullanılan eşyadır.",
+    "example": "I go to bed before midnight.",
+    "exampleTR": "Gece yarısından önce yatağa giderim.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "kitchen",
+    "meaning": "mutfak",
+    "secondary": [],
+    "explanation": "Yemek hazırlanan odadır.",
+    "example": "We are making soup in the kitchen.",
+    "exampleTR": "Mutfakta çorba yapıyoruz.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "garden",
+    "meaning": "bahçe",
+    "secondary": [],
+    "explanation": "Bitki yetiştirilen açık alandır.",
+    "example": "She grows tomatoes in her garden.",
+    "exampleTR": "Bahçesinde domates yetiştiriyor.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "family",
+    "meaning": "aile",
+    "secondary": [],
+    "explanation": "Yakın akrabalardan oluşan topluluktur.",
+    "example": "My family lives near the sea.",
+    "exampleTR": "Ailem denize yakın yaşıyor.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "friend",
+    "meaning": "arkadaş",
+    "secondary": [],
+    "explanation": "Yakınlık ve güven duyulan kişidir.",
+    "example": "A friend helped me move.",
+    "exampleTR": "Bir arkadaşım taşınmama yardım etti.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "neighbor",
+    "meaning": "komşu",
+    "secondary": [],
+    "explanation": "Yakınında yaşayan kişidir.",
+    "example": "Our neighbor has a friendly dog.",
+    "exampleTR": "Komşumuzun cana yakın bir köpeği var.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "child",
+    "meaning": "çocuk",
+    "secondary": [],
+    "explanation": "Henüz yetişkin olmayan kişidir.",
+    "example": "The child is drawing a tree.",
+    "exampleTR": "Çocuk bir ağaç çiziyor.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "parent",
+    "meaning": "ebeveyn",
+    "secondary": [],
+    "explanation": "Anne veya babayı belirtir.",
+    "example": "Each parent received a letter.",
+    "exampleTR": "Her ebeveyne bir mektup ulaştı.",
+    "level": "A2",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "name",
+    "meaning": "isim",
+    "secondary": [
+      "adlandırmak"
+    ],
+    "explanation": "Bir kişiyi veya şeyi tanıtan sözcüktür.",
+    "example": "Please write your name here.",
+    "exampleTR": "Lütfen adını buraya yaz.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "age",
+    "meaning": "yaş",
+    "secondary": [
+      "çağ"
+    ],
+    "explanation": "Birinin kaç yıldır yaşadığını belirtir.",
+    "example": "We are the same age.",
+    "exampleTR": "Aynı yaştayız.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "day",
+    "meaning": "gün",
+    "secondary": [],
+    "explanation": "Yirmi dört saatlik zaman dilimidir.",
+    "example": "Have a lovely day!",
+    "exampleTR": "Güzel bir gün geçir!",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "night",
+    "meaning": "gece",
+    "secondary": [],
+    "explanation": "Gün batımı ile sabah arasındaki zamandır.",
+    "example": "It gets cold at night.",
+    "exampleTR": "Geceleri hava soğuyor.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "morning",
+    "meaning": "sabah",
+    "secondary": [],
+    "explanation": "Günün erken saatlerini anlatır.",
+    "example": "I walk every morning.",
+    "exampleTR": "Her sabah yürürüm.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "evening",
+    "meaning": "akşam",
+    "secondary": [],
+    "explanation": "Öğleden sonra ile gece arasındaki zamandır.",
+    "example": "Let's meet this evening.",
+    "exampleTR": "Bu akşam buluşalım.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "week",
+    "meaning": "hafta",
+    "secondary": [],
+    "explanation": "Yedi günlük zaman dilimidir.",
+    "example": "I will call you next week.",
+    "exampleTR": "Seni gelecek hafta arayacağım.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "month",
+    "meaning": "ay",
+    "secondary": [],
+    "explanation": "Yılın on iki bölümünden biridir.",
+    "example": "We moved here last month.",
+    "exampleTR": "Buraya geçen ay taşındık.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "year",
+    "meaning": "yıl",
+    "secondary": [],
+    "explanation": "On iki aylık zaman dilimidir.",
+    "example": "This year feels different.",
+    "exampleTR": "Bu yıl farklı hissettiriyor.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "time",
+    "meaning": "zaman",
+    "secondary": [
+      "kez"
+    ],
+    "explanation": "Süreyi veya bir olayın vaktini anlatır.",
+    "example": "Do you have time for coffee?",
+    "exampleTR": "Kahve için vaktin var mı?",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "water",
+    "meaning": "su",
+    "secondary": [
+      "sulamak"
+    ],
+    "explanation": "İçilen temel sıvıdır.",
+    "example": "Could I have some water?",
+    "exampleTR": "Biraz su alabilir miyim?",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "food",
+    "meaning": "yiyecek",
+    "secondary": [],
+    "explanation": "Beslenmek için tüketilen şeyleri anlatır.",
+    "example": "The food smells delicious.",
+    "exampleTR": "Yemek harika kokuyor.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "bread",
+    "meaning": "ekmek",
+    "secondary": [],
+    "explanation": "Undan yapılan temel yiyecektir.",
+    "example": "We need fresh bread for breakfast.",
+    "exampleTR": "Kahvaltı için taze ekmek lazım.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "milk",
+    "meaning": "süt",
+    "secondary": [],
+    "explanation": "İçecek ve yemeklerde kullanılan besindir.",
+    "example": "There is no milk in the fridge.",
+    "exampleTR": "Buzdolabında süt yok.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "coffee",
+    "meaning": "kahve",
+    "secondary": [],
+    "explanation": "Kavrulmuş çekirdeklerden hazırlanan içecektir.",
+    "example": "I drink coffee without sugar.",
+    "exampleTR": "Kahveyi şekersiz içerim.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "tea",
+    "meaning": "çay",
+    "secondary": [],
+    "explanation": "Yaprakların sıcak suda demlenmesiyle hazırlanır.",
+    "example": "Would you like some tea?",
+    "exampleTR": "Biraz çay ister misin?",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "breakfast",
+    "meaning": "kahvaltı",
+    "secondary": [],
+    "explanation": "Sabah yenilen ilk öğündür.",
+    "example": "Breakfast is ready.",
+    "exampleTR": "Kahvaltı hazır.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "lunch",
+    "meaning": "öğle yemeği",
+    "secondary": [],
+    "explanation": "Günün ortasında yenilen öğündür.",
+    "example": "Let's have lunch outside.",
+    "exampleTR": "Öğle yemeğini dışarıda yiyelim.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "dinner",
+    "meaning": "akşam yemeği",
+    "secondary": [],
+    "explanation": "Genellikle akşam yenilen ana öğündür.",
+    "example": "Dinner will be ready soon.",
+    "exampleTR": "Akşam yemeği birazdan hazır olacak.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "fruit",
+    "meaning": "meyve",
+    "secondary": [
+      "sonuç, ürün"
+    ],
+    "explanation": "Bitkilerin yenilebilen ürününü belirtir.",
+    "example": "I eat fruit every day.",
+    "exampleTR": "Her gün meyve yerim.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "vegetable",
+    "meaning": "sebze",
+    "secondary": [],
+    "explanation": "Yemeklerde kullanılan yenilebilir bitkidir.",
+    "example": "A carrot is a vegetable.",
+    "exampleTR": "Havuç bir sebzedir.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "apple",
+    "meaning": "elma",
+    "secondary": [],
+    "explanation": "Yaygın bir meyve türüdür.",
+    "example": "She put an apple in her bag.",
+    "exampleTR": "Çantasına bir elma koydu.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "egg",
+    "meaning": "yumurta",
+    "secondary": [],
+    "explanation": "Kahvaltıda sık kullanılan bir besindir.",
+    "example": "I boiled an egg for breakfast.",
+    "exampleTR": "Kahvaltı için bir yumurta haşladım.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "cheese",
+    "meaning": "peynir",
+    "secondary": [],
+    "explanation": "Sütten üretilen bir yiyecektir.",
+    "example": "This cheese tastes wonderful.",
+    "exampleTR": "Bu peynirin tadı harika.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "rice",
+    "meaning": "pirinç",
+    "secondary": [],
+    "explanation": "Pilav yapımında kullanılan tahıldır.",
+    "example": "Serve the vegetables with rice.",
+    "exampleTR": "Sebzeleri pilavla servis et.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "soup",
+    "meaning": "çorba",
+    "secondary": [],
+    "explanation": "Sıvı kıvamlı sıcak veya soğuk yemektir.",
+    "example": "The soup is still too hot.",
+    "exampleTR": "Çorba hâlâ çok sıcak.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "money",
+    "meaning": "para",
+    "secondary": [],
+    "explanation": "Alışverişte kullanılan ödeme aracıdır.",
+    "example": "I am saving money for a bike.",
+    "exampleTR": "Bisiklet için para biriktiriyorum.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "price",
+    "meaning": "fiyat",
+    "secondary": [],
+    "explanation": "Bir ürün için ödenecek tutardır.",
+    "example": "What is the price of this bag?",
+    "exampleTR": "Bu çantanın fiyatı nedir?",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "shop",
+    "meaning": "mağaza",
+    "secondary": [
+      "alışveriş yapmak"
+    ],
+    "explanation": "Ürün satılan yerdir.",
+    "example": "The shop closes at six.",
+    "exampleTR": "Mağaza altıda kapanıyor.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "market",
+    "meaning": "pazar",
+    "secondary": [
+      "piyasa"
+    ],
+    "explanation": "Ürünlerin alınıp satıldığı yerdir.",
+    "example": "We buy fruit at the market.",
+    "exampleTR": "Meyveyi pazardan alıyoruz.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "bag",
+    "meaning": "çanta",
+    "secondary": [
+      "poşet"
+    ],
+    "explanation": "Eşyaları taşımaya yarayan araçtır.",
+    "example": "My keys are in my bag.",
+    "exampleTR": "Anahtarlarım çantamda.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "key",
+    "meaning": "anahtar",
+    "secondary": [
+      "temel, önemli"
+    ],
+    "explanation": "Kilit açmaya yarayan nesnedir.",
+    "example": "I cannot find my key.",
+    "exampleTR": "Anahtarımı bulamıyorum.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "phone",
+    "meaning": "telefon",
+    "secondary": [
+      "telefon etmek"
+    ],
+    "explanation": "Uzaktan iletişim kurmaya yarar.",
+    "example": "My phone needs charging.",
+    "exampleTR": "Telefonumun şarj edilmesi gerekiyor.",
+    "level": "A1",
+    "category": "technology",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "book",
+    "meaning": "kitap",
+    "secondary": [
+      "rezervasyon yapmak"
+    ],
+    "explanation": "Okumak için hazırlanmış yazılı eserdir.",
+    "example": "This book is easy to read.",
+    "exampleTR": "Bu kitabı okumak kolay.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "pen",
+    "meaning": "kalem",
+    "secondary": [
+      "hayvan ağılı"
+    ],
+    "explanation": "Mürekkeple yazı yazmaya yarar.",
+    "example": "May I borrow your pen?",
+    "exampleTR": "Kalemini ödünç alabilir miyim?",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "paper",
+    "meaning": "kâğıt",
+    "secondary": [
+      "makale"
+    ],
+    "explanation": "Yazı yazılan veya baskı yapılan malzemedir.",
+    "example": "Write your answer on paper.",
+    "exampleTR": "Cevabını kâğıda yaz.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "letter",
+    "meaning": "mektup",
+    "secondary": [
+      "harf"
+    ],
+    "explanation": "Birine gönderilen yazılı mesajdır.",
+    "example": "I received a letter from my aunt.",
+    "exampleTR": "Teyzemden bir mektup aldım.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "message",
+    "meaning": "mesaj",
+    "secondary": [],
+    "explanation": "Birine iletilen kısa bilgidir.",
+    "example": "Send me a message when you arrive.",
+    "exampleTR": "Varınca bana mesaj gönder.",
+    "level": "A1",
+    "category": "technology",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "picture",
+    "meaning": "resim",
+    "secondary": [
+      "durumun bütünü"
+    ],
+    "explanation": "Bir görüntünün çizimi veya fotoğrafıdır.",
+    "example": "This picture reminds me of summer.",
+    "exampleTR": "Bu resim bana yazı hatırlatıyor.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "music",
+    "meaning": "müzik",
+    "secondary": [],
+    "explanation": "Ritim ve seslerle oluşan sanat dalıdır.",
+    "example": "I listen to music while cooking.",
+    "exampleTR": "Yemek yaparken müzik dinlerim.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "movie",
+    "meaning": "film",
+    "secondary": [],
+    "explanation": "Hareketli görüntülerle anlatılan hikâyedir.",
+    "example": "We watched a funny movie.",
+    "exampleTR": "Komik bir film izledik.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "game",
+    "meaning": "oyun",
+    "secondary": [
+      "av hayvanı"
+    ],
+    "explanation": "Kuralları olan eğlence etkinliğidir.",
+    "example": "This game is fun for everyone.",
+    "exampleTR": "Bu oyun herkes için eğlenceli.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "story",
+    "meaning": "hikâye",
+    "secondary": [
+      "bina katı"
+    ],
+    "explanation": "Bir olayın anlatımıdır.",
+    "example": "Tell me a story about your trip.",
+    "exampleTR": "Bana gezinden bir hikâye anlat.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "question",
+    "meaning": "soru",
+    "secondary": [
+      "sorgulamak"
+    ],
+    "explanation": "Bilgi almak için söylenen ifadedir.",
+    "example": "Can I ask a question?",
+    "exampleTR": "Bir soru sorabilir miyim?",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "answer",
+    "meaning": "cevap",
+    "secondary": [
+      "cevaplamak"
+    ],
+    "explanation": "Bir soruya verilen karşılıktır.",
+    "example": "I know the answer.",
+    "exampleTR": "Cevabı biliyorum.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "problem",
+    "meaning": "sorun",
+    "secondary": [],
+    "explanation": "Çözülmesi gereken güçlüğü anlatır.",
+    "example": "We can solve this problem together.",
+    "exampleTR": "Bu sorunu birlikte çözebiliriz.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "idea",
+    "meaning": "fikir",
+    "secondary": [],
+    "explanation": "Zihinde oluşan düşünce veya öneridir.",
+    "example": "That sounds like a good idea.",
+    "exampleTR": "Bu kulağa iyi bir fikir gibi geliyor.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "plan",
+    "meaning": "plan",
+    "secondary": [
+      "planlamak"
+    ],
+    "explanation": "Yapılacak işleri önceden belirler.",
+    "example": "Our plan is simple.",
+    "exampleTR": "Planımız basit.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "place",
+    "meaning": "yer",
+    "secondary": [
+      "yerleştirmek"
+    ],
+    "explanation": "Bir konumu veya mekânı belirtir.",
+    "example": "This is a quiet place to study.",
+    "exampleTR": "Burası ders çalışmak için sessiz bir yer.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "city",
+    "meaning": "şehir",
+    "secondary": [],
+    "explanation": "Büyük yerleşim alanıdır.",
+    "example": "The city is busy in the morning.",
+    "exampleTR": "Şehir sabahları hareketlidir.",
+    "level": "A1",
+    "category": "travel",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "street",
+    "meaning": "sokak",
+    "secondary": [],
+    "explanation": "Yerleşim yerindeki ulaşım yoludur.",
+    "example": "Our street is quiet at night.",
+    "exampleTR": "Sokağımız geceleri sessizdir.",
+    "level": "A1",
+    "category": "travel",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "road",
+    "meaning": "yol",
+    "secondary": [],
+    "explanation": "Araçların ilerlediği güzergâhtır.",
+    "example": "The road is closed today.",
+    "exampleTR": "Yol bugün kapalı.",
+    "level": "A1",
+    "category": "travel",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "car",
+    "meaning": "araba",
+    "secondary": [],
+    "explanation": "Kişisel ulaşımda kullanılan araçtır.",
+    "example": "We left the car near the station.",
+    "exampleTR": "Arabayı istasyonun yakınına bıraktık.",
+    "level": "A1",
+    "category": "travel",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "bus",
+    "meaning": "otobüs",
+    "secondary": [],
+    "explanation": "Çok sayıda yolcu taşıyan araçtır.",
+    "example": "The bus arrives in ten minutes.",
+    "exampleTR": "Otobüs on dakika içinde geliyor.",
+    "level": "A1",
+    "category": "travel",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "train",
+    "meaning": "tren",
+    "secondary": [
+      "eğitmek"
+    ],
+    "explanation": "Ray üzerinde ilerleyen ulaşım aracıdır.",
+    "example": "Our train leaves at noon.",
+    "exampleTR": "Trenimiz öğlen kalkıyor.",
+    "level": "A1",
+    "category": "travel",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "station",
+    "meaning": "istasyon",
+    "secondary": [],
+    "explanation": "Toplu taşıma araçlarının durak yeridir.",
+    "example": "Meet me outside the station.",
+    "exampleTR": "Benimle istasyonun dışında buluş.",
+    "level": "A1",
+    "category": "travel",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "ticket",
+    "meaning": "bilet",
+    "secondary": [
+      "trafik cezası"
+    ],
+    "explanation": "Yolculuk veya etkinliğe giriş hakkı verir.",
+    "example": "Keep your ticket until the end.",
+    "exampleTR": "Biletini sonuna kadar sakla.",
+    "level": "A1",
+    "category": "travel",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "map",
+    "meaning": "harita",
+    "secondary": [
+      "haritalamak"
+    ],
+    "explanation": "Bir bölgenin konumlarını gösterir.",
+    "example": "Let me check the map.",
+    "exampleTR": "Haritaya bakayım.",
+    "level": "A1",
+    "category": "travel",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "hotel",
+    "meaning": "otel",
+    "secondary": [],
+    "explanation": "Kısa süreli konaklama yeridir.",
+    "example": "The hotel is close to the beach.",
+    "exampleTR": "Otel plaja yakın.",
+    "level": "A1",
+    "category": "travel",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "airport",
+    "meaning": "havalimanı",
+    "secondary": [],
+    "explanation": "Uçakların iniş ve kalkış yaptığı yerdir.",
+    "example": "We arrived at the airport early.",
+    "exampleTR": "Havalimanına erken vardık.",
+    "level": "A1",
+    "category": "travel",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "beach",
+    "meaning": "plaj",
+    "secondary": [],
+    "explanation": "Deniz kıyısındaki dinlenme alanıdır.",
+    "example": "The beach is empty this morning.",
+    "exampleTR": "Plaj bu sabah boş.",
+    "level": "A1",
+    "category": "travel",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "sea",
+    "meaning": "deniz",
+    "secondary": [],
+    "explanation": "Büyük tuzlu su alanıdır.",
+    "example": "The sea looks calm today.",
+    "exampleTR": "Deniz bugün sakin görünüyor.",
+    "level": "A1",
+    "category": "travel",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "river",
+    "meaning": "nehir",
+    "secondary": [],
+    "explanation": "Doğal olarak akan büyük su yoludur.",
+    "example": "A bridge crosses the river.",
+    "exampleTR": "Nehrin üzerinden bir köprü geçiyor.",
+    "level": "A1",
+    "category": "travel",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "mountain",
+    "meaning": "dağ",
+    "secondary": [],
+    "explanation": "Çevresinden yüksek doğal yer şeklidir.",
+    "example": "There is snow on the mountain.",
+    "exampleTR": "Dağda kar var.",
+    "level": "A1",
+    "category": "travel",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "weather",
+    "meaning": "hava durumu",
+    "secondary": [],
+    "explanation": "Atmosferin günlük koşullarını anlatır.",
+    "example": "The weather may change later.",
+    "exampleTR": "Hava daha sonra değişebilir.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "rain",
+    "meaning": "yağmur",
+    "secondary": [
+      "yağmur yağmak"
+    ],
+    "explanation": "Bulutlardan düşen su damlalarıdır.",
+    "example": "The rain stopped before lunch.",
+    "exampleTR": "Yağmur öğle yemeğinden önce durdu.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "snow",
+    "meaning": "kar",
+    "secondary": [],
+    "explanation": "Donmuş su kristallerinden oluşan yağıştır.",
+    "example": "The children are playing in the snow.",
+    "exampleTR": "Çocuklar karda oynuyor.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "wind",
+    "meaning": "rüzgâr",
+    "secondary": [],
+    "explanation": "Havanın hareketini anlatır.",
+    "example": "The wind is getting stronger.",
+    "exampleTR": "Rüzgâr güçleniyor.",
+    "level": "A2",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "sun",
+    "meaning": "güneş",
+    "secondary": [],
+    "explanation": "Dünya'ya ışık ve ısı veren yıldızdır.",
+    "example": "The sun is behind the clouds.",
+    "exampleTR": "Güneş bulutların arkasında.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "sky",
+    "meaning": "gökyüzü",
+    "secondary": [],
+    "explanation": "Dünya'nın üstünde görülen boşluktur.",
+    "example": "The sky is clear tonight.",
+    "exampleTR": "Gökyüzü bu gece açık.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "tree",
+    "meaning": "ağaç",
+    "secondary": [],
+    "explanation": "Gövdesi odunsu büyük bitkidir.",
+    "example": "A bird is sitting in that tree.",
+    "exampleTR": "Şu ağaçta bir kuş duruyor.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "flower",
+    "meaning": "çiçek",
+    "secondary": [
+      "çiçek açmak"
+    ],
+    "explanation": "Bitkinin genellikle renkli bölümüdür.",
+    "example": "This flower smells sweet.",
+    "exampleTR": "Bu çiçek güzel kokuyor.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "dog",
+    "meaning": "köpek",
+    "secondary": [],
+    "explanation": "Yaygın bir evcil hayvandır.",
+    "example": "Our dog loves long walks.",
+    "exampleTR": "Köpeğimiz uzun yürüyüşleri seviyor.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "cat",
+    "meaning": "kedi",
+    "secondary": [],
+    "explanation": "Yaygın bir evcil hayvandır.",
+    "example": "The cat is sleeping on the sofa.",
+    "exampleTR": "Kedi kanepede uyuyor.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "bird",
+    "meaning": "kuş",
+    "secondary": [],
+    "explanation": "Tüyleri ve kanatları olan hayvandır.",
+    "example": "A small bird landed on the roof.",
+    "exampleTR": "Küçük bir kuş çatıya kondu.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "body",
+    "meaning": "vücut",
+    "secondary": [
+      "ana bölüm"
+    ],
+    "explanation": "Bir canlının fiziksel yapısıdır.",
+    "example": "Your body needs rest.",
+    "exampleTR": "Vücudunun dinlenmeye ihtiyacı var.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "head",
+    "meaning": "baş",
+    "secondary": [
+      "yönetici"
+    ],
+    "explanation": "Vücudun beyni içeren bölümüdür.",
+    "example": "Keep your head up.",
+    "exampleTR": "Başını dik tut.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "hand",
+    "meaning": "el",
+    "secondary": [
+      "yardım"
+    ],
+    "explanation": "Tutmaya ve dokunmaya yarayan organdır.",
+    "example": "Raise your hand if you know.",
+    "exampleTR": "Biliyorsan elini kaldır.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "eye",
+    "meaning": "göz",
+    "secondary": [],
+    "explanation": "Görmeyi sağlayan organdır.",
+    "example": "Something got into my eye.",
+    "exampleTR": "Gözüme bir şey kaçtı.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "face",
+    "meaning": "yüz",
+    "secondary": [
+      "yüzleşmek"
+    ],
+    "explanation": "Başın ön bölümünü belirtir.",
+    "example": "There was a smile on her face.",
+    "exampleTR": "Yüzünde bir gülümseme vardı.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "heart",
+    "meaning": "kalp",
+    "secondary": [
+      "merkez"
+    ],
+    "explanation": "Kan dolaşımını sağlayan organdır.",
+    "example": "Exercise is good for your heart.",
+    "exampleTR": "Egzersiz kalbine iyi gelir.",
+    "level": "A2",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "health",
+    "meaning": "sağlık",
+    "secondary": [],
+    "explanation": "Bedensel ve zihinsel iyilik durumudur.",
+    "example": "Sleep matters for your health.",
+    "exampleTR": "Uyku sağlığın için önemlidir.",
+    "level": "A2",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "doctor",
+    "meaning": "doktor",
+    "secondary": [],
+    "explanation": "Hastalıkları değerlendiren sağlık uzmanıdır.",
+    "example": "You should see a doctor.",
+    "exampleTR": "Bir doktora görünmelisin.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "hospital",
+    "meaning": "hastane",
+    "secondary": [],
+    "explanation": "Tıbbi bakım verilen kurumdur.",
+    "example": "The hospital is on this road.",
+    "exampleTR": "Hastane bu yol üzerinde.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "school",
+    "meaning": "okul",
+    "secondary": [
+      "balık sürüsü"
+    ],
+    "explanation": "Eğitim verilen kurumdur.",
+    "example": "School starts at nine.",
+    "exampleTR": "Okul dokuzda başlıyor.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "teacher",
+    "meaning": "öğretmen",
+    "secondary": [],
+    "explanation": "Bilgi ve beceri öğreten kişidir.",
+    "example": "Our teacher explains things clearly.",
+    "exampleTR": "Öğretmenimiz konuları açıkça anlatıyor.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "student",
+    "meaning": "öğrenci",
+    "secondary": [],
+    "explanation": "Bir konuda öğrenim gören kişidir.",
+    "example": "Every student has a notebook.",
+    "exampleTR": "Her öğrencinin bir defteri var.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "learn",
+    "meaning": "öğrenmek",
+    "secondary": [],
+    "explanation": "Yeni bilgi veya beceri edinmektir.",
+    "example": "I want to learn a new language.",
+    "exampleTR": "Yeni bir dil öğrenmek istiyorum.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "teach",
+    "meaning": "öğretmek",
+    "secondary": [],
+    "explanation": "Birinin öğrenmesine yardımcı olmaktır.",
+    "example": "Can you teach me this song?",
+    "exampleTR": "Bana bu şarkıyı öğretebilir misin?",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "read",
+    "meaning": "okumak",
+    "secondary": [],
+    "explanation": "Yazılı metni anlamlandırmaktır.",
+    "example": "I read before going to sleep.",
+    "exampleTR": "Uyumadan önce okurum.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "write",
+    "meaning": "yazmak",
+    "secondary": [],
+    "explanation": "Düşünceleri yazıya dökmektir.",
+    "example": "Write a short note for her.",
+    "exampleTR": "Ona kısa bir not yaz.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "speak",
+    "meaning": "konuşmak",
+    "secondary": [],
+    "explanation": "Sözcüklerle iletişim kurmaktır.",
+    "example": "Do you speak English?",
+    "exampleTR": "İngilizce konuşuyor musun?",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "listen",
+    "meaning": "dinlemek",
+    "secondary": [],
+    "explanation": "Bir sese dikkat vermektir.",
+    "example": "Please listen to the instructions.",
+    "exampleTR": "Lütfen talimatları dinle.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "hear",
+    "meaning": "duymak",
+    "secondary": [],
+    "explanation": "Sesi kulakla algılamaktır.",
+    "example": "I can hear the birds.",
+    "exampleTR": "Kuşları duyabiliyorum.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "see",
+    "meaning": "görmek",
+    "secondary": [
+      "anlamak"
+    ],
+    "explanation": "Gözle algılamayı anlatır.",
+    "example": "Can you see the mountain?",
+    "exampleTR": "Dağı görebiliyor musun?",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "watch",
+    "meaning": "izlemek",
+    "secondary": [
+      "kol saati"
+    ],
+    "explanation": "Bir şeye dikkatle bakmayı anlatır.",
+    "example": "We watch the stars at night.",
+    "exampleTR": "Geceleri yıldızları izleriz.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "look",
+    "meaning": "bakmak",
+    "secondary": [
+      "görünüş"
+    ],
+    "explanation": "Gözleri bir yöne çevirmektir.",
+    "example": "Look at this beautiful view.",
+    "exampleTR": "Şu güzel manzaraya bak.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "walk",
+    "meaning": "yürümek",
+    "secondary": [
+      "yürüyüş"
+    ],
+    "explanation": "Adım atarak ilerlemektir.",
+    "example": "We walk to work together.",
+    "exampleTR": "İşe birlikte yürürüz.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "run",
+    "meaning": "koşmak",
+    "secondary": [
+      "işletmek"
+    ],
+    "explanation": "Hızlı adımlarla ilerlemektir.",
+    "example": "I run in the park every Sunday.",
+    "exampleTR": "Her pazar parkta koşarım.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "sit",
+    "meaning": "oturmak",
+    "secondary": [],
+    "explanation": "Bir yere oturma durumuna geçmektir.",
+    "example": "Please sit next to me.",
+    "exampleTR": "Lütfen yanıma otur.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "stand",
+    "meaning": "ayakta durmak",
+    "secondary": [
+      "tahammül etmek"
+    ],
+    "explanation": "Ayaklar üzerinde dik durmaktır.",
+    "example": "Stand near the door, please.",
+    "exampleTR": "Lütfen kapının yakınında dur.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "sleep",
+    "meaning": "uyumak",
+    "secondary": [
+      "uyku"
+    ],
+    "explanation": "Dinlenme durumunda bulunmaktır.",
+    "example": "I sleep better in a quiet room.",
+    "exampleTR": "Sessiz bir odada daha iyi uyurum.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "wake",
+    "meaning": "uyanmak",
+    "secondary": [
+      "uyandırmak"
+    ],
+    "explanation": "Uykudan çıkmayı anlatır.",
+    "example": "I wake up early on weekdays.",
+    "exampleTR": "Hafta içi erken uyanırım.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "eat",
+    "meaning": "yemek",
+    "secondary": [],
+    "explanation": "Yiyeceği tüketmektir.",
+    "example": "Let's eat before we leave.",
+    "exampleTR": "Çıkmadan önce yemek yiyelim.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "drink",
+    "meaning": "içmek",
+    "secondary": [
+      "içecek"
+    ],
+    "explanation": "Bir sıvıyı tüketmektir.",
+    "example": "Remember to drink some water.",
+    "exampleTR": "Biraz su içmeyi unutma.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "cook",
+    "meaning": "yemek pişirmek",
+    "secondary": [
+      "aşçı"
+    ],
+    "explanation": "Yiyeceği ısıyla hazırlamaktır.",
+    "example": "I cook dinner on Fridays.",
+    "exampleTR": "Cuma günleri akşam yemeğini ben yaparım.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "wash",
+    "meaning": "yıkamak",
+    "secondary": [
+      "yıkama"
+    ],
+    "explanation": "Suyla temizlemektir.",
+    "example": "Wash your hands before eating.",
+    "exampleTR": "Yemekten önce ellerini yıka.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "clean",
+    "meaning": "temizlemek",
+    "secondary": [
+      "temiz"
+    ],
+    "explanation": "Kiri veya dağınıklığı gidermektir.",
+    "example": "Let's clean the kitchen together.",
+    "exampleTR": "Mutfağı birlikte temizleyelim.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "open",
+    "meaning": "açmak",
+    "secondary": [
+      "açık"
+    ],
+    "explanation": "Kapalı bir şeyi erişilebilir yapmaktır.",
+    "example": "Could you open the box?",
+    "exampleTR": "Kutuyu açabilir misin?",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "close",
+    "meaning": "kapatmak",
+    "secondary": [
+      "yakın"
+    ],
+    "explanation": "Açık bir şeyi kapalı duruma getirmektir.",
+    "example": "Close your eyes for a moment.",
+    "exampleTR": "Bir an gözlerini kapat.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "start",
+    "meaning": "başlamak",
+    "secondary": [
+      "başlangıç"
+    ],
+    "explanation": "Bir işe ilk adımı atmaktır.",
+    "example": "We start work at eight.",
+    "exampleTR": "İşe sekizde başlarız.",
+    "level": "A1",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "finish",
+    "meaning": "bitirmek",
+    "secondary": [
+      "son kat kaplama"
+    ],
+    "explanation": "Bir işi tamamlamaktır.",
+    "example": "I need to finish this report.",
+    "exampleTR": "Bu raporu bitirmem gerekiyor.",
+    "level": "A1",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "stop",
+    "meaning": "durmak",
+    "secondary": [
+      "durdurmak"
+    ],
+    "explanation": "Bir hareketi veya işi sonlandırmaktır.",
+    "example": "The bus will stop here.",
+    "exampleTR": "Otobüs burada duracak.",
+    "level": "A1",
+    "category": "travel",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "wait",
+    "meaning": "beklemek",
+    "secondary": [],
+    "explanation": "Bir şey olana kadar kalmaktır.",
+    "example": "Please wait outside.",
+    "exampleTR": "Lütfen dışarıda bekle.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "come",
+    "meaning": "gelmek",
+    "secondary": [],
+    "explanation": "Konuşan kişiye doğru hareket etmektir.",
+    "example": "Come and join us.",
+    "exampleTR": "Gel, bize katıl.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "go",
+    "meaning": "gitmek",
+    "secondary": [
+      "deneme"
+    ],
+    "explanation": "Bir yerden başka yere hareket etmektir.",
+    "example": "Let's go to the park.",
+    "exampleTR": "Parka gidelim.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "leave",
+    "meaning": "ayrılmak",
+    "secondary": [
+      "bırakmak"
+    ],
+    "explanation": "Bulunulan yerden çıkmaktır.",
+    "example": "We need to leave soon.",
+    "exampleTR": "Yakında ayrılmamız gerekiyor.",
+    "level": "A1",
+    "category": "travel",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "arrive",
+    "meaning": "varmak",
+    "secondary": [],
+    "explanation": "Bir yolculuğun hedefine ulaşmaktır.",
+    "example": "What time will you arrive?",
+    "exampleTR": "Saat kaçta varacaksın?",
+    "level": "A1",
+    "category": "travel",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "bring",
+    "meaning": "getirmek",
+    "secondary": [],
+    "explanation": "Bir şeyi bulunulan yere taşımaktır.",
+    "example": "Please bring your notebook.",
+    "exampleTR": "Lütfen defterini getir.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "take",
+    "meaning": "almak",
+    "secondary": [
+      "götürmek"
+    ],
+    "explanation": "Bir şeyi elde etmeyi veya taşımayı anlatır.",
+    "example": "Take an umbrella with you.",
+    "exampleTR": "Yanına bir şemsiye al.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "give",
+    "meaning": "vermek",
+    "secondary": [],
+    "explanation": "Bir şeyi başka birine aktarmaktır.",
+    "example": "Give me a minute, please.",
+    "exampleTR": "Lütfen bana bir dakika ver.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "get",
+    "meaning": "almak",
+    "secondary": [
+      "olmak, hâle gelmek"
+    ],
+    "explanation": "Bağlama göre edinmeyi veya değişimi anlatır.",
+    "example": "I need to get some bread.",
+    "exampleTR": "Biraz ekmek almam gerekiyor.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "keep",
+    "meaning": "saklamak",
+    "secondary": [
+      "sürdürmek"
+    ],
+    "explanation": "Bir şeyi elde tutmayı anlatır.",
+    "example": "Keep this note in your bag.",
+    "exampleTR": "Bu notu çantanda sakla.",
+    "level": "A2",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "find",
+    "meaning": "bulmak",
+    "secondary": [
+      "düşünmek, bir kanıya varmak"
+    ],
+    "explanation": "Aranan veya bilinmeyen şeyi fark etmektir.",
+    "example": "I hope you find your wallet.",
+    "exampleTR": "Umarım cüzdanını bulursun.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "lose",
+    "meaning": "kaybetmek",
+    "secondary": [],
+    "explanation": "Bir şeyi bulamaz veya elde tutamaz olmaktır.",
+    "example": "Don't lose your ticket.",
+    "exampleTR": "Biletini kaybetme.",
+    "level": "A1",
+    "category": "travel",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "buy",
+    "meaning": "satın almak",
+    "secondary": [],
+    "explanation": "Para karşılığında edinmektir.",
+    "example": "I want to buy a new coat.",
+    "exampleTR": "Yeni bir mont almak istiyorum.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "sell",
+    "meaning": "satmak",
+    "secondary": [],
+    "explanation": "Bir şeyi para karşılığında vermektir.",
+    "example": "They sell fresh bread here.",
+    "exampleTR": "Burada taze ekmek satıyorlar.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "pay",
+    "meaning": "ödemek",
+    "secondary": [
+      "ücret"
+    ],
+    "explanation": "Bir bedeli karşılamaktır.",
+    "example": "Can I pay by card?",
+    "exampleTR": "Kartla ödeyebilir miyim?",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "cost",
+    "meaning": "mal olmak",
+    "secondary": [
+      "maliyet"
+    ],
+    "explanation": "Bir şeyin fiyatını belirtir.",
+    "example": "How much does it cost?",
+    "exampleTR": "Ne kadar tutuyor?",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "save",
+    "meaning": "biriktirmek",
+    "secondary": [
+      "kaydetmek",
+      "kurtarmak"
+    ],
+    "explanation": "Parayı veya bir şeyi koruyup ayırmaktır.",
+    "example": "I save a little money each month.",
+    "exampleTR": "Her ay biraz para biriktiririm.",
+    "level": "A2",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "spend",
+    "meaning": "harcamak",
+    "secondary": [
+      "zaman geçirmek"
+    ],
+    "explanation": "Para veya zaman kullanmayı anlatır.",
+    "example": "We spend weekends by the sea.",
+    "exampleTR": "Hafta sonlarını deniz kenarında geçiririz.",
+    "level": "A2",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "need",
+    "meaning": "ihtiyaç duymak",
+    "secondary": [
+      "ihtiyaç"
+    ],
+    "explanation": "Bir şeyin gerekli olduğunu anlatır.",
+    "example": "You need a warm jacket.",
+    "exampleTR": "Sıcak tutan bir cekete ihtiyacın var.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "want",
+    "meaning": "istemek",
+    "secondary": [],
+    "explanation": "Bir şeye yönelik arzuyu anlatır.",
+    "example": "Do you want some tea?",
+    "exampleTR": "Biraz çay ister misin?",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "like",
+    "meaning": "sevmek",
+    "secondary": [
+      "gibi"
+    ],
+    "explanation": "Bir şeyden hoşlanmayı anlatır.",
+    "example": "I like this quiet café.",
+    "exampleTR": "Bu sessiz kafeyi seviyorum.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "love",
+    "meaning": "sevmek",
+    "secondary": [
+      "aşk"
+    ],
+    "explanation": "Güçlü sevgi veya beğeni anlatır.",
+    "example": "I love spending time with you.",
+    "exampleTR": "Seninle zaman geçirmeyi seviyorum.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "hope",
+    "meaning": "ummak",
+    "secondary": [
+      "umut"
+    ],
+    "explanation": "Olumlu bir sonucun olmasını istemektir.",
+    "example": "I hope the weather improves.",
+    "exampleTR": "Umarım hava düzelir.",
+    "level": "A2",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "think",
+    "meaning": "düşünmek",
+    "secondary": [],
+    "explanation": "Zihinde değerlendirme yapmaktır.",
+    "example": "Think before you answer.",
+    "exampleTR": "Cevap vermeden önce düşün.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "know",
+    "meaning": "bilmek",
+    "secondary": [
+      "tanımak"
+    ],
+    "explanation": "Bir bilgiye sahip olmayı anlatır.",
+    "example": "Do you know the way?",
+    "exampleTR": "Yolu biliyor musun?",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "understand",
+    "meaning": "anlamak",
+    "secondary": [],
+    "explanation": "Bir anlamı veya durumu kavramaktır.",
+    "example": "I understand your concern.",
+    "exampleTR": "Kaygını anlıyorum.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "remember",
+    "meaning": "hatırlamak",
+    "secondary": [],
+    "explanation": "Geçmiş bilgiyi zihne getirmektir.",
+    "example": "I remember our first meeting.",
+    "exampleTR": "İlk buluşmamızı hatırlıyorum.",
+    "level": "A2",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "forget",
+    "meaning": "unutmak",
+    "secondary": [],
+    "explanation": "Bir bilgiyi hatırlayamamaktır.",
+    "example": "Don't forget your keys.",
+    "exampleTR": "Anahtarlarını unutma.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "ask",
+    "meaning": "sormak",
+    "secondary": [
+      "istemek, rica etmek"
+    ],
+    "explanation": "Bilgi veya yardım talep etmektir.",
+    "example": "Ask the teacher for help.",
+    "exampleTR": "Öğretmenden yardım iste.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "tell",
+    "meaning": "söylemek",
+    "secondary": [
+      "anlatmak"
+    ],
+    "explanation": "Birine bilgi aktarmaktır.",
+    "example": "Tell me what happened.",
+    "exampleTR": "Bana ne olduğunu anlat.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "say",
+    "meaning": "demek",
+    "secondary": [],
+    "explanation": "Bir sözü dile getirmektir.",
+    "example": "What did she say?",
+    "exampleTR": "Ne dedi?",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "call",
+    "meaning": "aramak",
+    "secondary": [
+      "adlandırmak",
+      "çağrı"
+    ],
+    "explanation": "Telefonla iletişim kurmayı anlatır.",
+    "example": "I will call you after work.",
+    "exampleTR": "İşten sonra seni arayacağım.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "help",
+    "meaning": "yardım etmek",
+    "secondary": [
+      "yardım"
+    ],
+    "explanation": "Bir işi kolaylaştırmak için destek olmaktır.",
+    "example": "Can you help me carry this?",
+    "exampleTR": "Bunu taşımama yardım eder misin?",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "try",
+    "meaning": "denemek",
+    "secondary": [
+      "çabalamak"
+    ],
+    "explanation": "Bir şeyi yapmaya girişmektir.",
+    "example": "Try this soup while it is hot.",
+    "exampleTR": "Bu çorbayı sıcakken dene.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "use",
+    "meaning": "kullanmak",
+    "secondary": [
+      "kullanım"
+    ],
+    "explanation": "Bir araçtan veya kaynaktan yararlanmaktır.",
+    "example": "You can use my laptop.",
+    "exampleTR": "Dizüstü bilgisayarımı kullanabilirsin.",
+    "level": "A1",
+    "category": "technology",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "make",
+    "meaning": "yapmak",
+    "secondary": [
+      "üretmek"
+    ],
+    "explanation": "Yeni bir şey ortaya çıkarmaktır.",
+    "example": "Let's make a simple plan.",
+    "exampleTR": "Basit bir plan yapalım.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "do",
+    "meaning": "yapmak",
+    "secondary": [],
+    "explanation": "Bir işi veya eylemi gerçekleştirmektir.",
+    "example": "I do my homework after dinner.",
+    "exampleTR": "Ödevimi akşam yemeğinden sonra yaparım.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "work",
+    "meaning": "çalışmak",
+    "secondary": [
+      "iş",
+      "eser"
+    ],
+    "explanation": "Bir görev üzerinde emek harcamaktır.",
+    "example": "I work from home on Mondays.",
+    "exampleTR": "Pazartesi günleri evden çalışırım.",
+    "level": "A1",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "play",
+    "meaning": "oynamak",
+    "secondary": [
+      "müzik aleti çalmak"
+    ],
+    "explanation": "Oyun veya eğlence etkinliği yapmaktır.",
+    "example": "Children play in this park.",
+    "exampleTR": "Çocuklar bu parkta oynar.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "meet",
+    "meaning": "buluşmak",
+    "secondary": [
+      "tanışmak"
+    ],
+    "explanation": "Bir araya gelmeyi anlatır.",
+    "example": "Let's meet after lunch.",
+    "exampleTR": "Öğle yemeğinden sonra buluşalım.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "visit",
+    "meaning": "ziyaret etmek",
+    "secondary": [
+      "ziyaret"
+    ],
+    "explanation": "Bir kişiyi veya yeri görmeye gitmektir.",
+    "example": "We visit our grandparents often.",
+    "exampleTR": "Büyükannemizi ve büyükbabamızı sık ziyaret ederiz.",
+    "level": "A1",
+    "category": "travel",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "travel",
+    "meaning": "seyahat etmek",
+    "secondary": [
+      "yolculuk"
+    ],
+    "explanation": "Farklı yerlere gitmeyi anlatır.",
+    "example": "I prefer to travel by train.",
+    "exampleTR": "Trenle seyahat etmeyi tercih ederim.",
+    "level": "A1",
+    "category": "travel",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "drive",
+    "meaning": "araba kullanmak",
+    "secondary": [
+      "dürtü",
+      "sürücü birimi"
+    ],
+    "explanation": "Bir motorlu aracı yönetmektir.",
+    "example": "Can you drive us to the station?",
+    "exampleTR": "Bizi istasyona götürebilir misin?",
+    "level": "A1",
+    "category": "travel",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "ride",
+    "meaning": "binmek",
+    "secondary": [
+      "yolculuk"
+    ],
+    "explanation": "Bisiklet veya benzeri araçla gitmektir.",
+    "example": "I ride my bike to school.",
+    "exampleTR": "Okula bisikletle giderim.",
+    "level": "A1",
+    "category": "travel",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "fly",
+    "meaning": "uçmak",
+    "secondary": [
+      "sinek"
+    ],
+    "explanation": "Havada hareket etmektir.",
+    "example": "We fly to London tomorrow.",
+    "exampleTR": "Yarın Londra'ya uçuyoruz.",
+    "level": "A1",
+    "category": "travel",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "swim",
+    "meaning": "yüzmek",
+    "secondary": [],
+    "explanation": "Suda hareket etmektir.",
+    "example": "I swim twice a week.",
+    "exampleTR": "Haftada iki kez yüzerim.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "dance",
+    "meaning": "dans etmek",
+    "secondary": [
+      "dans"
+    ],
+    "explanation": "Müziğe uygun hareket etmektir.",
+    "example": "They love to dance together.",
+    "exampleTR": "Birlikte dans etmeyi seviyorlar.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "sing",
+    "meaning": "şarkı söylemek",
+    "secondary": [],
+    "explanation": "Sesle müzik yapmaktır.",
+    "example": "We sing in the car.",
+    "exampleTR": "Arabada şarkı söyleriz.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "smile",
+    "meaning": "gülümsemek",
+    "secondary": [
+      "gülümseme"
+    ],
+    "explanation": "Yüzde hafif bir sevinç ifadesi oluşturmaktır.",
+    "example": "Your jokes always make me smile.",
+    "exampleTR": "Şakaların beni hep gülümsetir.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "laugh",
+    "meaning": "gülmek",
+    "secondary": [
+      "gülüş"
+    ],
+    "explanation": "Neşe veya komiklik karşısında ses çıkarmaktır.",
+    "example": "We laugh at the same things.",
+    "exampleTR": "Aynı şeylere güleriz.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "cry",
+    "meaning": "ağlamak",
+    "secondary": [
+      "haykırmak"
+    ],
+    "explanation": "Gözyaşı dökmeyi anlatır.",
+    "example": "The baby began to cry.",
+    "exampleTR": "Bebek ağlamaya başladı.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "feel",
+    "meaning": "hissetmek",
+    "secondary": [
+      "dokunarak yoklamak"
+    ],
+    "explanation": "Bir duygu veya duyumu yaşamaktır.",
+    "example": "I feel better today.",
+    "exampleTR": "Bugün kendimi daha iyi hissediyorum.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "change",
+    "meaning": "değiştirmek",
+    "secondary": [
+      "değişim",
+      "bozuk para"
+    ],
+    "explanation": "Bir şeyi farklı hâle getirmektir.",
+    "example": "We can change the date.",
+    "exampleTR": "Tarihi değiştirebiliriz.",
+    "level": "A2",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "choose",
+    "meaning": "seçmek",
+    "secondary": [],
+    "explanation": "Seçenekler arasında karar vermektir.",
+    "example": "Choose a seat near the window.",
+    "exampleTR": "Pencereye yakın bir koltuk seç.",
+    "level": "A2",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "decide",
+    "meaning": "karar vermek",
+    "secondary": [],
+    "explanation": "Bir seçeneği kesinleştirmektir.",
+    "example": "We need to decide by Friday.",
+    "exampleTR": "Cumaya kadar karar vermemiz gerekiyor.",
+    "level": "A2",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "explain",
+    "meaning": "açıklamak",
+    "secondary": [],
+    "explanation": "Bir şeyi anlaşılır hâle getirmektir.",
+    "example": "Can you explain the rules?",
+    "exampleTR": "Kuralları açıklayabilir misin?",
+    "level": "A2",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "describe",
+    "meaning": "betimlemek",
+    "secondary": [],
+    "explanation": "Bir şeyin özelliklerini anlatmaktır.",
+    "example": "Describe the place you visited.",
+    "exampleTR": "Ziyaret ettiğin yeri anlat.",
+    "level": "A2",
+    "category": "travel",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "agree",
+    "meaning": "aynı fikirde olmak",
+    "secondary": [
+      "anlaşmak"
+    ],
+    "explanation": "Bir görüşü veya öneriyi kabul etmektir.",
+    "example": "I agree with your suggestion.",
+    "exampleTR": "Önerine katılıyorum.",
+    "level": "A2",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "believe",
+    "meaning": "inanmak",
+    "secondary": [],
+    "explanation": "Bir şeyin doğru olduğunu düşünmektir.",
+    "example": "I believe we can finish today.",
+    "exampleTR": "Bugün bitirebileceğimize inanıyorum.",
+    "level": "A2",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "borrow",
+    "meaning": "ödünç almak",
+    "secondary": [],
+    "explanation": "Sonra geri vermek üzere almaktır.",
+    "example": "Can I borrow your umbrella?",
+    "exampleTR": "Şemsiyeni ödünç alabilir miyim?",
+    "level": "A2",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "lend",
+    "meaning": "ödünç vermek",
+    "secondary": [],
+    "explanation": "Geri almak üzere birine vermektir.",
+    "example": "I can lend you my bicycle.",
+    "exampleTR": "Sana bisikletimi ödünç verebilirim.",
+    "level": "A2",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "big",
+    "meaning": "büyük",
+    "secondary": [],
+    "explanation": "Boyutu fazla olan şeyi niteler.",
+    "example": "They have a big kitchen.",
+    "exampleTR": "Onların büyük bir mutfağı var.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "small",
+    "meaning": "küçük",
+    "secondary": [],
+    "explanation": "Boyutu az olan şeyi niteler.",
+    "example": "We live in a small town.",
+    "exampleTR": "Küçük bir kasabada yaşıyoruz.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "long",
+    "meaning": "uzun",
+    "secondary": [
+      "özlem duymak"
+    ],
+    "explanation": "Mesafesi veya süresi fazla olanı anlatır.",
+    "example": "It was a long journey.",
+    "exampleTR": "Uzun bir yolculuktu.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "short",
+    "meaning": "kısa",
+    "secondary": [
+      "eksik"
+    ],
+    "explanation": "Uzunluğu veya süresi az olanı anlatır.",
+    "example": "Let's take a short break.",
+    "exampleTR": "Kısa bir mola verelim.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "new",
+    "meaning": "yeni",
+    "secondary": [],
+    "explanation": "Yakın zamanda ortaya çıkmış olanı anlatır.",
+    "example": "I started a new job.",
+    "exampleTR": "Yeni bir işe başladım.",
+    "level": "A1",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "old",
+    "meaning": "eski",
+    "secondary": [
+      "yaşlı"
+    ],
+    "explanation": "Uzun süredir var olanı belirtir.",
+    "example": "This is an old family photo.",
+    "exampleTR": "Bu eski bir aile fotoğrafı.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "young",
+    "meaning": "genç",
+    "secondary": [],
+    "explanation": "Yaşı küçük olanı niteler.",
+    "example": "The young artist lives nearby.",
+    "exampleTR": "Genç sanatçı yakınlarda yaşıyor.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "good",
+    "meaning": "iyi",
+    "secondary": [
+      "yarar"
+    ],
+    "explanation": "Olumlu veya yeterli niteliği anlatır.",
+    "example": "That is good news.",
+    "exampleTR": "Bu iyi haber.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "bad",
+    "meaning": "kötü",
+    "secondary": [],
+    "explanation": "Olumsuz veya istenmeyen niteliği anlatır.",
+    "example": "We had bad weather yesterday.",
+    "exampleTR": "Dün hava kötüydü.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "easy",
+    "meaning": "kolay",
+    "secondary": [],
+    "explanation": "Az çabayla yapılabileni anlatır.",
+    "example": "This recipe is easy to follow.",
+    "exampleTR": "Bu tarifi uygulamak kolay.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "difficult",
+    "meaning": "zor",
+    "secondary": [],
+    "explanation": "Çaba veya beceri gerektireni anlatır.",
+    "example": "It was a difficult decision.",
+    "exampleTR": "Zor bir karardı.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "happy",
+    "meaning": "mutlu",
+    "secondary": [
+      "memnun"
+    ],
+    "explanation": "Sevinç duyan kişiyi veya durumu anlatır.",
+    "example": "I am happy to see you.",
+    "exampleTR": "Seni gördüğüme sevindim.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "sad",
+    "meaning": "üzgün",
+    "secondary": [],
+    "explanation": "Kederli olma durumunu anlatır.",
+    "example": "The ending made me sad.",
+    "exampleTR": "Sonu beni üzdü.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "tired",
+    "meaning": "yorgun",
+    "secondary": [],
+    "explanation": "Dinlenmeye ihtiyaç duyanı niteler.",
+    "example": "You look tired today.",
+    "exampleTR": "Bugün yorgun görünüyorsun.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "hungry",
+    "meaning": "aç",
+    "secondary": [],
+    "explanation": "Yemek yeme ihtiyacı duyandır.",
+    "example": "I am hungry after the walk.",
+    "exampleTR": "Yürüyüşten sonra acıktım.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "thirsty",
+    "meaning": "susamış",
+    "secondary": [],
+    "explanation": "Su içme ihtiyacı duyandır.",
+    "example": "Are you thirsty?",
+    "exampleTR": "Susadın mı?",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "hot",
+    "meaning": "sıcak",
+    "secondary": [
+      "acı, baharatlı"
+    ],
+    "explanation": "Sıcaklığı yüksek olanı niteler.",
+    "example": "Be careful; the plate is hot.",
+    "exampleTR": "Dikkat et; tabak sıcak.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "cold",
+    "meaning": "soğuk",
+    "secondary": [
+      "soğuk algınlığı"
+    ],
+    "explanation": "Sıcaklığı düşük olanı niteler.",
+    "example": "It is cold outside.",
+    "exampleTR": "Dışarısı soğuk.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "warm",
+    "meaning": "ılık",
+    "secondary": [
+      "samimi"
+    ],
+    "explanation": "Hafif ve hoş bir sıcaklığı anlatır.",
+    "example": "The water is warm enough.",
+    "exampleTR": "Su yeterince ılık.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "cool",
+    "meaning": "serin",
+    "secondary": [
+      "havalı"
+    ],
+    "explanation": "Hafif soğukluğu veya beğeniyi anlatır.",
+    "example": "The evenings are cool here.",
+    "exampleTR": "Burada akşamlar serindir.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "fast",
+    "meaning": "hızlı",
+    "secondary": [
+      "oruç tutmak"
+    ],
+    "explanation": "Çabuk hareket edeni niteler.",
+    "example": "This train is very fast.",
+    "exampleTR": "Bu tren çok hızlı.",
+    "level": "A1",
+    "category": "travel",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "slow",
+    "meaning": "yavaş",
+    "secondary": [
+      "yavaşlatmak"
+    ],
+    "explanation": "Hızı düşük olanı niteler.",
+    "example": "The service is slow today.",
+    "exampleTR": "Bugün hizmet yavaş.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "early",
+    "meaning": "erken",
+    "secondary": [],
+    "explanation": "Beklenen vakitten önce olanı anlatır.",
+    "example": "We arrived early for the meeting.",
+    "exampleTR": "Toplantıya erken geldik.",
+    "level": "A1",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "late",
+    "meaning": "geç",
+    "secondary": [
+      "merhum"
+    ],
+    "explanation": "Beklenen vakitten sonra olanı anlatır.",
+    "example": "Sorry, I am late.",
+    "exampleTR": "Üzgünüm, geç kaldım.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "busy",
+    "meaning": "meşgul",
+    "secondary": [
+      "işlek"
+    ],
+    "explanation": "Yapacak işi çok olanı anlatır.",
+    "example": "I am busy this afternoon.",
+    "exampleTR": "Bu öğleden sonra meşgulüm.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "free",
+    "meaning": "ücretsiz",
+    "secondary": [
+      "özgür",
+      "boş vakti olan"
+    ],
+    "explanation": "Ücret gerektirmeyen şeyi anlatır.",
+    "example": "Entry to the museum is free.",
+    "exampleTR": "Müzeye giriş ücretsiz.",
+    "level": "A1",
+    "category": "travel",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "full",
+    "meaning": "dolu",
+    "secondary": [
+      "tok"
+    ],
+    "explanation": "İçinde boş yer kalmayanı niteler.",
+    "example": "The bus is full.",
+    "exampleTR": "Otobüs dolu.",
+    "level": "A1",
+    "category": "travel",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "empty",
+    "meaning": "boş",
+    "secondary": [
+      "boşaltmak"
+    ],
+    "explanation": "İçinde bir şey bulunmayanı niteler.",
+    "example": "The box is empty.",
+    "exampleTR": "Kutu boş.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "quiet",
+    "meaning": "sessiz",
+    "secondary": [
+      "sakin"
+    ],
+    "explanation": "Gürültünün az olduğu durumu anlatır.",
+    "example": "We found a quiet café.",
+    "exampleTR": "Sessiz bir kafe bulduk.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "loud",
+    "meaning": "yüksek sesli",
+    "secondary": [],
+    "explanation": "Sesin güçlü olduğunu anlatır.",
+    "example": "The music is too loud.",
+    "exampleTR": "Müziğin sesi çok yüksek.",
+    "level": "A2",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "clear",
+    "meaning": "açık, anlaşılır",
+    "secondary": [
+      "berrak",
+      "temizlemek"
+    ],
+    "explanation": "Kolay anlaşılan veya görülen şeyi anlatır.",
+    "example": "Your instructions are clear.",
+    "exampleTR": "Talimatların açık.",
+    "level": "A2",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "bright",
+    "meaning": "parlak",
+    "secondary": [
+      "zeki"
+    ],
+    "explanation": "Çok ışık veren veya alanı niteler.",
+    "example": "The room is bright in the morning.",
+    "exampleTR": "Oda sabahları aydınlık.",
+    "level": "A2",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "dark",
+    "meaning": "karanlık",
+    "secondary": [
+      "koyu renkli"
+    ],
+    "explanation": "Işığın az olduğu durumu anlatır.",
+    "example": "It gets dark early in winter.",
+    "exampleTR": "Kışın hava erken kararır.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "light",
+    "meaning": "ışık",
+    "secondary": [
+      "hafif",
+      "açık renkli"
+    ],
+    "explanation": "Görmeyi sağlayan aydınlığı belirtir.",
+    "example": "Please turn on the light.",
+    "exampleTR": "Lütfen ışığı aç.",
+    "level": "A1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "heavy",
+    "meaning": "ağır",
+    "secondary": [
+      "yoğun"
+    ],
+    "explanation": "Ağırlığı fazla olanı niteler.",
+    "example": "This suitcase is heavy.",
+    "exampleTR": "Bu valiz ağır.",
+    "level": "A2",
+    "category": "travel",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "strong",
+    "meaning": "güçlü",
+    "secondary": [
+      "demli, yoğun"
+    ],
+    "explanation": "Gücü veya dayanıklılığı yüksek olandır.",
+    "example": "The bridge is strong enough.",
+    "exampleTR": "Köprü yeterince sağlam.",
+    "level": "A2",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "weak",
+    "meaning": "zayıf",
+    "secondary": [
+      "güçsüz"
+    ],
+    "explanation": "Gücü veya etkisi az olanı niteler.",
+    "example": "The signal is weak here.",
+    "exampleTR": "Burada sinyal zayıf.",
+    "level": "A2",
+    "category": "technology",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "safe",
+    "meaning": "güvenli",
+    "secondary": [
+      "kasa"
+    ],
+    "explanation": "Tehlikeden korunmuş olmayı anlatır.",
+    "example": "Your documents are safe here.",
+    "exampleTR": "Belgelerin burada güvende.",
+    "level": "A2",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "careful",
+    "meaning": "dikkatli",
+    "secondary": [],
+    "explanation": "Hata veya tehlikeye karşı özenli olandır.",
+    "example": "Be careful on the wet floor.",
+    "exampleTR": "Islak zeminde dikkatli ol.",
+    "level": "A2",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "kind",
+    "meaning": "nazik",
+    "secondary": [
+      "tür"
+    ],
+    "explanation": "Başkalarına iyi davrananı niteler.",
+    "example": "It was kind of you to help.",
+    "exampleTR": "Yardım etmen çok nazikçeydi.",
+    "level": "A2",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "polite",
+    "meaning": "kibar",
+    "secondary": [],
+    "explanation": "Görgü kurallarına uygun davranandır.",
+    "example": "He gave a polite reply.",
+    "exampleTR": "Kibar bir cevap verdi.",
+    "level": "A2",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "honest",
+    "meaning": "dürüst",
+    "secondary": [],
+    "explanation": "Gerçeği söyleyen ve güvenilir olandır.",
+    "example": "Thank you for your honest opinion.",
+    "exampleTR": "Dürüst fikrin için teşekkür ederim.",
+    "level": "B1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "patient",
+    "meaning": "sabırlı",
+    "secondary": [
+      "hasta"
+    ],
+    "explanation": "Beklemeye sakinlikle dayanabilendir.",
+    "example": "Please be patient with me.",
+    "exampleTR": "Lütfen bana karşı sabırlı ol.",
+    "level": "B1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "curious",
+    "meaning": "meraklı",
+    "secondary": [
+      "tuhaf"
+    ],
+    "explanation": "Bilgi edinmeye istekli olanı niteler.",
+    "example": "I am curious about your project.",
+    "exampleTR": "Projeni merak ediyorum.",
+    "level": "B1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "confident",
+    "meaning": "kendinden emin",
+    "secondary": [],
+    "explanation": "Kendi becerilerine güvenen kişidir.",
+    "example": "She feels confident about the exam.",
+    "exampleTR": "Sınav konusunda kendine güveniyor.",
+    "level": "B1",
+    "category": "daily",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "reliable",
+    "meaning": "güvenilir",
+    "secondary": [],
+    "explanation": "Düzenli biçimde güvenilebilen kişiyi veya şeyi niteler.",
+    "example": "We need a reliable internet connection.",
+    "exampleTR": "Güvenilir bir internet bağlantısına ihtiyacımız var.",
+    "level": "B1",
+    "category": "technology",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "available",
+    "meaning": "mevcut, kullanılabilir",
+    "secondary": [
+      "müsait"
+    ],
+    "explanation": "Erişilebilen veya kullanıma hazır olandır.",
+    "example": "Is this room available tonight?",
+    "exampleTR": "Bu oda bu gece müsait mi?",
+    "level": "A2",
+    "category": "travel",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "necessary",
+    "meaning": "gerekli",
+    "secondary": [],
+    "explanation": "Olması veya yapılması gerekeni anlatır.",
+    "example": "A ticket is necessary for entry.",
+    "exampleTR": "Giriş için bilet gerekli.",
+    "level": "A2",
+    "category": "travel",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "possible",
+    "meaning": "mümkün",
+    "secondary": [],
+    "explanation": "Gerçekleşme ihtimali olanı belirtir.",
+    "example": "Is it possible to change my booking?",
+    "exampleTR": "Rezervasyonumu değiştirmek mümkün mü?",
+    "level": "A2",
+    "category": "travel",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "different",
+    "meaning": "farklı",
+    "secondary": [],
+    "explanation": "Aynı olmayan özellikleri anlatır.",
+    "example": "Let's try a different route.",
+    "exampleTR": "Farklı bir rota deneyelim.",
+    "level": "A1",
+    "category": "travel",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "approach",
+    "meaning": "yaklaşım",
+    "secondary": [
+      "yaklaşmak"
+    ],
+    "explanation": "Bir konuyu ele alma biçimini anlatır.",
+    "example": "We need a different approach to this problem.",
+    "exampleTR": "Bu soruna farklı bir yaklaşım gerekiyor.",
+    "level": "B2",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "issue",
+    "meaning": "konu, sorun",
+    "secondary": [
+      "yayımlamak",
+      "sayı"
+    ],
+    "explanation": "Ele alınması gereken meseleyi belirtir.",
+    "example": "We discussed the issue this morning.",
+    "exampleTR": "Konuyu bu sabah görüştük.",
+    "level": "B1",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "support",
+    "meaning": "destek",
+    "secondary": [
+      "desteklemek"
+    ],
+    "explanation": "Bir işi veya kişiyi güçlendiren yardımdır.",
+    "example": "Thank you for your support.",
+    "exampleTR": "Desteğin için teşekkür ederim.",
+    "level": "B1",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "review",
+    "meaning": "gözden geçirmek",
+    "secondary": [
+      "inceleme",
+      "değerlendirme"
+    ],
+    "explanation": "Bir şeyi yeniden kontrol etmektir.",
+    "example": "Please review the document before signing.",
+    "exampleTR": "Lütfen imzalamadan önce belgeyi incele.",
+    "level": "B1",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "schedule",
+    "meaning": "program",
+    "secondary": [
+      "planlamak"
+    ],
+    "explanation": "İşlerin yapılacağı zamanları gösterir.",
+    "example": "My schedule is full today.",
+    "exampleTR": "Programım bugün dolu.",
+    "level": "B1",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "deadline",
+    "meaning": "son teslim tarihi",
+    "secondary": [],
+    "explanation": "Bir işin bitmesi gereken son zamandır.",
+    "example": "The deadline is next Friday.",
+    "exampleTR": "Son teslim tarihi gelecek cuma.",
+    "level": "B1",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "meeting",
+    "meaning": "toplantı",
+    "secondary": [
+      "buluşma"
+    ],
+    "explanation": "Bir konuyu görüşmek için bir araya gelmektir.",
+    "example": "The meeting starts in five minutes.",
+    "exampleTR": "Toplantı beş dakika sonra başlıyor.",
+    "level": "A2",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "project",
+    "meaning": "proje",
+    "secondary": [
+      "yansıtmak"
+    ],
+    "explanation": "Belirli bir hedefi olan planlı çalışmadır.",
+    "example": "Our project is almost complete.",
+    "exampleTR": "Projemiz neredeyse tamamlandı.",
+    "level": "A2",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "task",
+    "meaning": "görev",
+    "secondary": [],
+    "explanation": "Tamamlanması gereken belirli iştir.",
+    "example": "This task takes about an hour.",
+    "exampleTR": "Bu görev yaklaşık bir saat sürer.",
+    "level": "A2",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "goal",
+    "meaning": "hedef",
+    "secondary": [
+      "gol"
+    ],
+    "explanation": "Ulaşılmak istenen sonucu belirtir.",
+    "example": "Our goal is to improve quality.",
+    "exampleTR": "Hedefimiz kaliteyi artırmak.",
+    "level": "B1",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "budget",
+    "meaning": "bütçe",
+    "secondary": [],
+    "explanation": "Kullanılabilecek paranın planıdır.",
+    "example": "We must stay within the budget.",
+    "exampleTR": "Bütçe sınırları içinde kalmalıyız.",
+    "level": "B1",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "profit",
+    "meaning": "kâr",
+    "secondary": [
+      "yararlanmak"
+    ],
+    "explanation": "Gelirden giderler çıkarılınca kalan tutardır.",
+    "example": "The company made a small profit.",
+    "exampleTR": "Şirket küçük bir kâr elde etti.",
+    "level": "B1",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "growth",
+    "meaning": "büyüme",
+    "secondary": [
+      "gelişme"
+    ],
+    "explanation": "Boyutun veya miktarın artmasıdır.",
+    "example": "The report shows steady growth.",
+    "exampleTR": "Rapor istikrarlı büyüme gösteriyor.",
+    "level": "B2",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "demand",
+    "meaning": "talep",
+    "secondary": [
+      "talep etmek"
+    ],
+    "explanation": "Bir ürün veya hizmete duyulan istektir.",
+    "example": "Demand for this service is rising.",
+    "exampleTR": "Bu hizmete talep artıyor.",
+    "level": "B2",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "supply",
+    "meaning": "tedarik",
+    "secondary": [
+      "sağlamak"
+    ],
+    "explanation": "Gerekli ürün veya kaynağın sunulmasıdır.",
+    "example": "We need a steady supply of materials.",
+    "exampleTR": "Düzenli malzeme tedarikine ihtiyacımız var.",
+    "level": "B2",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "feedback",
+    "meaning": "geri bildirim",
+    "secondary": [],
+    "explanation": "Bir işin nasıl olduğuna dair değerlendirmedir.",
+    "example": "Your feedback helped us improve.",
+    "exampleTR": "Geri bildirimin gelişmemize yardımcı oldu.",
+    "level": "B1",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "skill",
+    "meaning": "beceri",
+    "secondary": [],
+    "explanation": "Bir işi yapabilme yeteneğidir.",
+    "example": "Writing clearly is a useful skill.",
+    "exampleTR": "Açık yazmak yararlı bir beceridir.",
+    "level": "B1",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "experience",
+    "meaning": "deneyim",
+    "secondary": [
+      "yaşamak, deneyimlemek"
+    ],
+    "explanation": "Yaşayarak kazanılan bilgi veya olaydır.",
+    "example": "She has experience in customer service.",
+    "exampleTR": "Müşteri hizmetlerinde deneyimi var.",
+    "level": "B1",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "opportunity",
+    "meaning": "fırsat",
+    "secondary": [],
+    "explanation": "Olumlu bir şey yapma imkânıdır.",
+    "example": "This is a great opportunity to learn.",
+    "exampleTR": "Bu, öğrenmek için harika bir fırsat.",
+    "level": "B1",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "challenge",
+    "meaning": "zorluk",
+    "secondary": [
+      "meydan okumak"
+    ],
+    "explanation": "Çaba gerektiren bir durum veya iştir.",
+    "example": "Learning a language is an exciting challenge.",
+    "exampleTR": "Dil öğrenmek heyecan verici bir uğraştır.",
+    "level": "B1",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "improve",
+    "meaning": "iyileştirmek",
+    "secondary": [],
+    "explanation": "Bir şeyi daha iyi hâle getirmektir.",
+    "example": "We want to improve the service.",
+    "exampleTR": "Hizmeti iyileştirmek istiyoruz.",
+    "level": "B1",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "achieve",
+    "meaning": "başarmak",
+    "secondary": [],
+    "explanation": "Çalışarak bir hedefe ulaşmaktır.",
+    "example": "You can achieve your goals step by step.",
+    "exampleTR": "Hedeflerine adım adım ulaşabilirsin.",
+    "level": "B1",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "develop",
+    "meaning": "geliştirmek",
+    "secondary": [
+      "gelişmek"
+    ],
+    "explanation": "Bir şeyi zamanla ilerletmektir.",
+    "example": "We develop tools for small businesses.",
+    "exampleTR": "Küçük işletmeler için araçlar geliştiriyoruz.",
+    "level": "B1",
+    "category": "technology",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "manage",
+    "meaning": "yönetmek",
+    "secondary": [
+      "başarmak, becermek"
+    ],
+    "explanation": "Bir işi veya kaynağı düzenlemektir.",
+    "example": "She can manage several tasks at once.",
+    "exampleTR": "Aynı anda birkaç işi yönetebilir.",
+    "level": "B1",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "require",
+    "meaning": "gerektirmek",
+    "secondary": [],
+    "explanation": "Bir şeyi zorunlu veya gerekli kılmaktır.",
+    "example": "This job will require patience.",
+    "exampleTR": "Bu iş sabır gerektirecek.",
+    "level": "B2",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "provide",
+    "meaning": "sağlamak",
+    "secondary": [],
+    "explanation": "İhtiyaç duyulan şeyi sunmaktır.",
+    "example": "We provide training for new staff.",
+    "exampleTR": "Yeni çalışanlara eğitim sağlıyoruz.",
+    "level": "B1",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "consider",
+    "meaning": "değerlendirmek",
+    "secondary": [],
+    "explanation": "Karar vermeden önce dikkatle düşünmektir.",
+    "example": "Please consider all the options.",
+    "exampleTR": "Lütfen tüm seçenekleri değerlendir.",
+    "level": "B1",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "assume",
+    "meaning": "varsaymak",
+    "secondary": [
+      "üstlenmek"
+    ],
+    "explanation": "Kesin bilgi olmadan doğru kabul etmektir.",
+    "example": "Do not assume everyone agrees.",
+    "exampleTR": "Herkesin aynı fikirde olduğunu varsayma.",
+    "level": "B2",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "evidence",
+    "meaning": "kanıt",
+    "secondary": [],
+    "explanation": "Bir düşünceyi destekleyen bilgi veya bulgudur.",
+    "example": "We need more evidence before deciding.",
+    "exampleTR": "Karar vermeden önce daha fazla kanıt gerekiyor.",
+    "level": "B2",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "insight",
+    "meaning": "içgörü",
+    "secondary": [],
+    "explanation": "Bir konunun özünü anlamayı sağlayan kavrayıştır.",
+    "example": "The interview gave us useful insight.",
+    "exampleTR": "Görüşme bize yararlı bir içgörü sağladı.",
+    "level": "C1",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "constraint",
+    "meaning": "kısıt",
+    "secondary": [],
+    "explanation": "Hareket alanını sınırlayan koşuldur.",
+    "example": "Time is our main constraint.",
+    "exampleTR": "Zaman en büyük kısıtımız.",
+    "level": "C1",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "trade-off",
+    "meaning": "ödünleşim",
+    "secondary": [],
+    "explanation": "Bir yarar için başka bir yarardan vazgeçmektir.",
+    "example": "There is a trade-off between speed and detail.",
+    "exampleTR": "Hız ile ayrıntı arasında bir ödünleşim var.",
+    "level": "C1",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "feasible",
+    "meaning": "uygulanabilir",
+    "secondary": [],
+    "explanation": "Mevcut koşullarda yapılabilecek olandır.",
+    "example": "The plan is feasible with our budget.",
+    "exampleTR": "Plan bütçemizle uygulanabilir.",
+    "level": "C1",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "ambiguous",
+    "meaning": "belirsiz, çok anlamlı",
+    "secondary": [],
+    "explanation": "Birden fazla biçimde yorumlanabileni niteler.",
+    "example": "The instructions were ambiguous.",
+    "exampleTR": "Talimatlar belirsizdi.",
+    "level": "C1",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "substantial",
+    "meaning": "önemli miktarda",
+    "secondary": [],
+    "explanation": "Miktarı veya etkisi büyük olanı anlatır.",
+    "example": "The change saved a substantial amount of time.",
+    "exampleTR": "Değişiklik önemli miktarda zaman kazandırdı.",
+    "level": "C1",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "allocate",
+    "meaning": "tahsis etmek",
+    "secondary": [],
+    "explanation": "Bir kaynağı belirli bir amaç için ayırmaktır.",
+    "example": "We should allocate more time to testing.",
+    "exampleTR": "Teste daha fazla zaman ayırmalıyız.",
+    "level": "C1",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "mitigate",
+    "meaning": "etkisini azaltmak",
+    "secondary": [],
+    "explanation": "Bir sorunun şiddetini düşürmektir.",
+    "example": "The new process may mitigate the risk.",
+    "exampleTR": "Yeni süreç riski azaltabilir.",
+    "level": "C1",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "underlying",
+    "meaning": "temelinde yatan",
+    "secondary": [],
+    "explanation": "Görünür durumun arkasındaki nedeni niteler.",
+    "example": "We need to find the underlying cause.",
+    "exampleTR": "Temelde yatan nedeni bulmalıyız.",
+    "level": "C1",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "consistent",
+    "meaning": "tutarlı",
+    "secondary": [
+      "istikrarlı"
+    ],
+    "explanation": "Zamanla veya kendi içinde uyumlu olandır.",
+    "example": "The results are consistent with our tests.",
+    "exampleTR": "Sonuçlar testlerimizle tutarlı.",
+    "level": "B2",
+    "category": "work",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "resilient",
+    "meaning": "dayanıklı",
+    "secondary": [],
+    "explanation": "Zorluklardan sonra toparlanabilendir.",
+    "example": "We are building a more resilient system.",
+    "exampleTR": "Daha dayanıklı bir sistem kuruyoruz.",
+    "level": "C1",
+    "category": "technology",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "device",
+    "meaning": "cihaz",
+    "secondary": [
+      "yöntem, düzenek"
+    ],
+    "explanation": "Belirli bir iş yapan araçtır.",
+    "example": "Connect your device to the network.",
+    "exampleTR": "Cihazını ağa bağla.",
+    "level": "A2",
+    "category": "technology",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "screen",
+    "meaning": "ekran",
+    "secondary": [
+      "taramadan geçirmek"
+    ],
+    "explanation": "Görüntünün gösterildiği yüzeydir.",
+    "example": "The screen is too bright.",
+    "exampleTR": "Ekran çok parlak.",
+    "level": "A2",
+    "category": "technology",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "keyboard",
+    "meaning": "klavye",
+    "secondary": [],
+    "explanation": "Yazı girmek için kullanılan tuş takımıdır.",
+    "example": "This keyboard is comfortable to use.",
+    "exampleTR": "Bu klavyeyi kullanmak rahat.",
+    "level": "A2",
+    "category": "technology",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "password",
+    "meaning": "parola",
+    "secondary": [],
+    "explanation": "Hesaba erişmek için kullanılan gizli bilgidir.",
+    "example": "Never share your password.",
+    "exampleTR": "Parolanı asla paylaşma.",
+    "level": "A2",
+    "category": "technology",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "account",
+    "meaning": "hesap",
+    "secondary": [
+      "açıklama, anlatım"
+    ],
+    "explanation": "Bir hizmette kullanıcıya ayrılan kayıttır.",
+    "example": "I created an account yesterday.",
+    "exampleTR": "Dün bir hesap oluşturdum.",
+    "level": "A2",
+    "category": "technology",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "file",
+    "meaning": "dosya",
+    "secondary": [
+      "dosyalamak",
+      "törpü"
+    ],
+    "explanation": "Bilgisayarda saklanan veri birimidir.",
+    "example": "Save the file before closing it.",
+    "exampleTR": "Dosyayı kapatmadan önce kaydet.",
+    "level": "A2",
+    "category": "technology",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "folder",
+    "meaning": "klasör",
+    "secondary": [],
+    "explanation": "Dosyaları bir arada tutan bölümdür.",
+    "example": "Put the photos in this folder.",
+    "exampleTR": "Fotoğrafları bu klasöre koy.",
+    "level": "A2",
+    "category": "technology",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "update",
+    "meaning": "güncelleme",
+    "secondary": [
+      "güncellemek"
+    ],
+    "explanation": "Bir şeyi daha yeni hâle getiren değişikliktir.",
+    "example": "The update fixed the problem.",
+    "exampleTR": "Güncelleme sorunu çözdü.",
+    "level": "B1",
+    "category": "technology",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "download",
+    "meaning": "indirmek",
+    "secondary": [
+      "indirme"
+    ],
+    "explanation": "İnternetten cihaza veri aktarmaktır.",
+    "example": "You can download the guide here.",
+    "exampleTR": "Rehberi buradan indirebilirsin.",
+    "level": "A2",
+    "category": "technology",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "upload",
+    "meaning": "yüklemek",
+    "secondary": [
+      "yükleme"
+    ],
+    "explanation": "Cihazdan çevrimiçi bir yere veri göndermektir.",
+    "example": "Please upload the document today.",
+    "exampleTR": "Lütfen belgeyi bugün yükle.",
+    "level": "B1",
+    "category": "technology",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "connection",
+    "meaning": "bağlantı",
+    "secondary": [
+      "ilişki"
+    ],
+    "explanation": "İki nokta arasında iletişim sağlayan bağdır.",
+    "example": "The connection is stable now.",
+    "exampleTR": "Bağlantı artık kararlı.",
+    "level": "B1",
+    "category": "technology",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "backup",
+    "meaning": "yedek kopya",
+    "secondary": [
+      "destek"
+    ],
+    "explanation": "Veri kaybına karşı saklanan kopyadır.",
+    "example": "Keep a backup of important files.",
+    "exampleTR": "Önemli dosyaların yedeğini tut.",
+    "level": "B1",
+    "category": "technology",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "privacy",
+    "meaning": "gizlilik",
+    "secondary": [
+      "özel hayat"
+    ],
+    "explanation": "Kişisel bilgilerin korunmasıyla ilgilidir.",
+    "example": "This setting protects your privacy.",
+    "exampleTR": "Bu ayar gizliliğini korur.",
+    "level": "B2",
+    "category": "technology",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "permission",
+    "meaning": "izin",
+    "secondary": [],
+    "explanation": "Bir eylemi yapabilmek için verilen onaydır.",
+    "example": "The app needs permission to save photos.",
+    "exampleTR": "Uygulamanın fotoğraf kaydetmek için izne ihtiyacı var.",
+    "level": "B1",
+    "category": "technology",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "feature",
+    "meaning": "özellik",
+    "secondary": [
+      "öne çıkarmak"
+    ],
+    "explanation": "Bir ürünün sunduğu işlev veya niteliktir.",
+    "example": "This feature works without the internet.",
+    "exampleTR": "Bu özellik internet olmadan çalışır.",
+    "level": "B1",
+    "category": "technology",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "storage",
+    "meaning": "depolama",
+    "secondary": [],
+    "explanation": "Verileri saklamak için ayrılan alandır.",
+    "example": "My phone is running out of storage.",
+    "exampleTR": "Telefonumun depolama alanı doluyor.",
+    "level": "B1",
+    "category": "technology",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "network",
+    "meaning": "ağ",
+    "secondary": [
+      "bağlantı kurmak"
+    ],
+    "explanation": "Birbirine bağlı cihaz veya kişiler topluluğudur.",
+    "example": "Choose a secure network.",
+    "exampleTR": "Güvenli bir ağ seç.",
+    "level": "B1",
+    "category": "technology",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "error",
+    "meaning": "hata",
+    "secondary": [],
+    "explanation": "Yanlışlık veya çalışmayı engelleyen durumdur.",
+    "example": "An error occurred during the download.",
+    "exampleTR": "İndirme sırasında bir hata oluştu.",
+    "level": "A2",
+    "category": "technology",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "settings",
+    "meaning": "ayarlar",
+    "secondary": [],
+    "explanation": "Bir uygulamanın davranışını belirleyen seçeneklerdir.",
+    "example": "You can change the language in settings.",
+    "exampleTR": "Dili ayarlardan değiştirebilirsin.",
+    "level": "A2",
+    "category": "technology",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "interface",
+    "meaning": "arayüz",
+    "secondary": [],
+    "explanation": "Kullanıcıyla sistem arasındaki etkileşim alanıdır.",
+    "example": "The interface is simple and clear.",
+    "exampleTR": "Arayüz basit ve açık.",
+    "level": "B2",
+    "category": "technology",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "by the way",
+    "meaning": "bu arada",
+    "secondary": [],
+    "explanation": "Konuşmaya ek bir bilgi veya yeni konu ekler.",
+    "example": "By the way, I found your keys.",
+    "exampleTR": "Bu arada, anahtarlarını buldum.",
+    "level": "A2",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "at least",
+    "meaning": "en azından",
+    "secondary": [
+      "en az"
+    ],
+    "explanation": "Alt sınır veya teselli edici yön belirtir.",
+    "example": "At least we arrived before the rain.",
+    "exampleTR": "En azından yağmurdan önce vardık.",
+    "level": "A2",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "of course",
+    "meaning": "elbette",
+    "secondary": [],
+    "explanation": "Kesin kabul veya doğal beklenti bildirir.",
+    "example": "Of course, you can join us.",
+    "exampleTR": "Elbette bize katılabilirsin.",
+    "level": "A1",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "in fact",
+    "meaning": "aslında",
+    "secondary": [],
+    "explanation": "Önceki bilgiyi düzeltir veya güçlendirir.",
+    "example": "In fact, the test was quite easy.",
+    "exampleTR": "Aslında sınav oldukça kolaydı.",
+    "level": "B1",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "for example",
+    "meaning": "örneğin",
+    "secondary": [],
+    "explanation": "Bir düşünceyi somut örnekle açıklar.",
+    "example": "Try a new hobby, for example, painting.",
+    "exampleTR": "Yeni bir hobi dene, örneğin resim yapmayı.",
+    "level": "A2",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "as well",
+    "meaning": "de, da",
+    "secondary": [
+      "ayrıca"
+    ],
+    "explanation": "Bir şeye eklenen başka bir şeyi belirtir.",
+    "example": "My sister is coming as well.",
+    "exampleTR": "Kız kardeşim de geliyor.",
+    "level": "A2",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "so far",
+    "meaning": "şimdiye kadar",
+    "secondary": [],
+    "explanation": "Şimdiki ana kadar geçen süreyi kapsar.",
+    "example": "So far, everything is going well.",
+    "exampleTR": "Şimdiye kadar her şey iyi gidiyor.",
+    "level": "B1",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "right now",
+    "meaning": "şu anda",
+    "secondary": [],
+    "explanation": "Tam konuşulan anı vurgular.",
+    "example": "I cannot talk right now.",
+    "exampleTR": "Şu anda konuşamıyorum.",
+    "level": "A1",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "on time",
+    "meaning": "vaktinde",
+    "secondary": [],
+    "explanation": "Planlanan saatte olmayı anlatır.",
+    "example": "The train arrived on time.",
+    "exampleTR": "Tren vaktinde geldi.",
+    "level": "A2",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "in time",
+    "meaning": "zamanında yetişerek",
+    "secondary": [],
+    "explanation": "Geç olmadan önce olmayı anlatır.",
+    "example": "We arrived in time for the show.",
+    "exampleTR": "Gösteriye zamanında yetiştik.",
+    "level": "B1",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "at the moment",
+    "meaning": "şu anda",
+    "secondary": [],
+    "explanation": "İçinde bulunulan zamanı belirtir.",
+    "example": "She is busy at the moment.",
+    "exampleTR": "Şu anda meşgul.",
+    "level": "A2",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "from now on",
+    "meaning": "bundan böyle",
+    "secondary": [],
+    "explanation": "Şimdiden sonraki dönemi belirtir.",
+    "example": "From now on, I will bring my own bag.",
+    "exampleTR": "Bundan böyle kendi çantamı getireceğim.",
+    "level": "B1",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "once in a while",
+    "meaning": "arada bir",
+    "secondary": [],
+    "explanation": "Seyrek gerçekleşen eylemi anlatır.",
+    "example": "We eat out once in a while.",
+    "exampleTR": "Arada bir dışarıda yemek yeriz.",
+    "level": "B1",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "all of a sudden",
+    "meaning": "birdenbire",
+    "secondary": [],
+    "explanation": "Beklenmedik ve hızlı değişimi belirtir.",
+    "example": "All of a sudden, the lights went out.",
+    "exampleTR": "Birdenbire ışıklar söndü.",
+    "level": "B1",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "in the end",
+    "meaning": "sonunda",
+    "secondary": [],
+    "explanation": "Bir sürecin nihai sonucunu belirtir.",
+    "example": "In the end, we decided to stay.",
+    "exampleTR": "Sonunda kalmaya karar verdik.",
+    "level": "B1",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "after all",
+    "meaning": "ne de olsa",
+    "secondary": [
+      "sonuçta"
+    ],
+    "explanation": "Bir gerekçeyi veya beklenmedik sonucu vurgular.",
+    "example": "Let's rest; it was a long day, after all.",
+    "exampleTR": "Dinlenelim; ne de olsa uzun bir gündü.",
+    "level": "B1",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "as soon as",
+    "meaning": "olur olmaz",
+    "secondary": [],
+    "explanation": "Bir olayın hemen ardından diğerini anlatır.",
+    "example": "Call me as soon as you arrive.",
+    "exampleTR": "Varır varmaz beni ara.",
+    "level": "A2",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "as long as",
+    "meaning": "yeter ki",
+    "secondary": [
+      "sürece"
+    ],
+    "explanation": "Bir koşulun devam etmesini belirtir.",
+    "example": "You can stay as long as you are quiet.",
+    "exampleTR": "Sessiz olduğun sürece kalabilirsin.",
+    "level": "B1",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "even though",
+    "meaning": "olmasına rağmen",
+    "secondary": [],
+    "explanation": "Beklentinin tersine gerçekleşen durumu bağlar.",
+    "example": "We walked even though it was raining.",
+    "exampleTR": "Yağmur yağmasına rağmen yürüdük.",
+    "level": "B1",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "instead of",
+    "meaning": "yerine",
+    "secondary": [],
+    "explanation": "Bir seçenekten başkasına geçişi anlatır.",
+    "example": "Let's walk instead of taking the bus.",
+    "exampleTR": "Otobüse binmek yerine yürüyelim.",
+    "level": "A2",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "because of",
+    "meaning": "yüzünden",
+    "secondary": [
+      "nedeniyle"
+    ],
+    "explanation": "Bir durumun nedenini isimle belirtir.",
+    "example": "The flight was delayed because of fog.",
+    "exampleTR": "Uçuş sis nedeniyle gecikti.",
+    "level": "A2",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "thanks to",
+    "meaning": "sayesinde",
+    "secondary": [],
+    "explanation": "Olumlu sonucun kaynağını belirtir.",
+    "example": "Thanks to your help, we finished early.",
+    "exampleTR": "Yardımın sayesinde erken bitirdik.",
+    "level": "B1",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "according to",
+    "meaning": "göre",
+    "secondary": [],
+    "explanation": "Bilginin dayandığı kaynağı belirtir.",
+    "example": "According to the map, we are close.",
+    "exampleTR": "Haritaya göre yakınız.",
+    "level": "B1",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "in order to",
+    "meaning": "amacıyla",
+    "secondary": [],
+    "explanation": "Bir eylemin hedefini açıklar.",
+    "example": "I left early in order to avoid traffic.",
+    "exampleTR": "Trafikten kaçınmak için erken çıktım.",
+    "level": "B1",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "as a result",
+    "meaning": "sonuç olarak",
+    "secondary": [],
+    "explanation": "Önceki olayın sonucunu bildirir.",
+    "example": "It snowed all night; as a result, school closed.",
+    "exampleTR": "Bütün gece kar yağdı; sonuç olarak okul kapandı.",
+    "level": "B1",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "on the other hand",
+    "meaning": "öte yandan",
+    "secondary": [],
+    "explanation": "Bir konunun farklı yönünü sunar.",
+    "example": "It is expensive; on the other hand, it lasts longer.",
+    "exampleTR": "Pahalı; öte yandan daha uzun dayanıyor.",
+    "level": "B1",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "in other words",
+    "meaning": "başka bir deyişle",
+    "secondary": [],
+    "explanation": "Aynı düşünceyi farklı biçimde açıklar.",
+    "example": "It is optional; in other words, you can say no.",
+    "exampleTR": "İsteğe bağlı; başka bir deyişle hayır diyebilirsin.",
+    "level": "B1",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "to be honest",
+    "meaning": "dürüst olmak gerekirse",
+    "secondary": [],
+    "explanation": "Açık bir görüş söylemeye giriş yapar.",
+    "example": "To be honest, I prefer the blue one.",
+    "exampleTR": "Dürüst olmak gerekirse mavi olanı tercih ederim.",
+    "level": "B1",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "as far as I know",
+    "meaning": "bildiğim kadarıyla",
+    "secondary": [],
+    "explanation": "Bilginin sınırlı olduğunu belirtir.",
+    "example": "As far as I know, the shop is open.",
+    "exampleTR": "Bildiğim kadarıyla mağaza açık.",
+    "level": "B1",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "it depends",
+    "meaning": "duruma bağlı",
+    "secondary": [],
+    "explanation": "Cevabın koşullara göre değiştiğini anlatır.",
+    "example": "It depends on the weather.",
+    "exampleTR": "Hava durumuna bağlı.",
+    "level": "A2",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "never mind",
+    "meaning": "boş ver",
+    "secondary": [
+      "önemi yok"
+    ],
+    "explanation": "Bir konuyu sürdürmeye gerek olmadığını anlatır.",
+    "example": "Never mind, we can try again tomorrow.",
+    "exampleTR": "Boş ver, yarın yeniden deneyebiliriz.",
+    "level": "A2",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "no worries",
+    "meaning": "sorun değil",
+    "secondary": [],
+    "explanation": "Rahatlatmak veya teşekküre karşılık vermek için kullanılır.",
+    "example": "No worries, I can wait.",
+    "exampleTR": "Sorun değil, bekleyebilirim.",
+    "level": "A2",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "take care",
+    "meaning": "kendine iyi bak",
+    "secondary": [
+      "dikkat et"
+    ],
+    "explanation": "Vedalaşırken iyi dilek bildirir.",
+    "example": "Take care, and call me soon.",
+    "exampleTR": "Kendine iyi bak ve beni yakında ara.",
+    "level": "A2",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "make sense",
+    "meaning": "mantıklı gelmek",
+    "secondary": [],
+    "explanation": "Bir düşüncenin anlaşılır olduğunu anlatır.",
+    "example": "Your explanation makes sense to me.",
+    "exampleTR": "Açıklaman bana mantıklı geliyor.",
+    "level": "B1",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "take your time",
+    "meaning": "acele etme",
+    "secondary": [],
+    "explanation": "Birine rahatça zaman kullanabileceğini söyler.",
+    "example": "Take your time; we are not in a hurry.",
+    "exampleTR": "Acele etme; acelemiz yok.",
+    "level": "A2",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "keep in mind",
+    "meaning": "aklında tutmak",
+    "secondary": [],
+    "explanation": "Bir bilgiyi unutmamayı hatırlatır.",
+    "example": "Keep in mind that the shop closes early.",
+    "exampleTR": "Mağazanın erken kapandığını aklında tut.",
+    "level": "B1",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "get along",
+    "meaning": "iyi anlaşmak",
+    "secondary": [],
+    "explanation": "Kişiler arasındaki uyumlu ilişkiyi anlatır.",
+    "example": "We get along well with our neighbors.",
+    "exampleTR": "Komşularımızla iyi anlaşırız.",
+    "level": "B1",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "look forward to",
+    "meaning": "dört gözle beklemek",
+    "secondary": [],
+    "explanation": "Gelecekteki bir şeyi heyecanla beklemektir.",
+    "example": "I look forward to seeing you.",
+    "exampleTR": "Seni görmeyi dört gözle bekliyorum.",
+    "level": "B1",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "find out",
+    "meaning": "öğrenmek, keşfetmek",
+    "secondary": [],
+    "explanation": "Araştırarak yeni bilgi edinmektir.",
+    "example": "Let's find out when the museum opens.",
+    "exampleTR": "Müzenin ne zaman açıldığını öğrenelim.",
+    "level": "A2",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "figure out",
+    "meaning": "çözmek, anlamak",
+    "secondary": [],
+    "explanation": "Düşünerek bir şeyi kavramaktır.",
+    "example": "I need to figure out how this works.",
+    "exampleTR": "Bunun nasıl çalıştığını çözmem gerekiyor.",
+    "level": "B1",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "give up",
+    "meaning": "vazgeçmek",
+    "secondary": [
+      "bırakmak"
+    ],
+    "explanation": "Çabalamayı veya alışkanlığı sonlandırmaktır.",
+    "example": "Don't give up after one mistake.",
+    "exampleTR": "Tek bir hatadan sonra vazgeçme.",
+    "level": "B1",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "carry on",
+    "meaning": "devam etmek",
+    "secondary": [],
+    "explanation": "Bir eylemi sürdürmektir.",
+    "example": "Please carry on with your work.",
+    "exampleTR": "Lütfen işine devam et.",
+    "level": "B1",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "put off",
+    "meaning": "ertelemek",
+    "secondary": [
+      "soğutmak, isteksiz kılmak"
+    ],
+    "explanation": "Bir işi daha sonraya bırakmaktır.",
+    "example": "We had to put off the meeting.",
+    "exampleTR": "Toplantıyı ertelemek zorunda kaldık.",
+    "level": "B1",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "turn down",
+    "meaning": "reddetmek",
+    "secondary": [
+      "sesini kısmak"
+    ],
+    "explanation": "Bir teklifi kabul etmemektir.",
+    "example": "She had to turn down the offer.",
+    "exampleTR": "Teklifi reddetmek zorunda kaldı.",
+    "level": "B1",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "turn up",
+    "meaning": "ortaya çıkmak",
+    "secondary": [
+      "sesini açmak"
+    ],
+    "explanation": "Beklenen kişinin veya şeyin belirmesidir.",
+    "example": "He might turn up later.",
+    "exampleTR": "Daha sonra ortaya çıkabilir.",
+    "level": "B1",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "look after",
+    "meaning": "bakmak, ilgilenmek",
+    "secondary": [],
+    "explanation": "Birinin bakımını üstlenmektir.",
+    "example": "Can you look after my cat?",
+    "exampleTR": "Kedime bakabilir misin?",
+    "level": "A2",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "run out of",
+    "meaning": "tükenmek",
+    "secondary": [],
+    "explanation": "Bir şeyin elde kalmamasını anlatır.",
+    "example": "We might run out of milk.",
+    "exampleTR": "Sütümüz bitebilir.",
+    "level": "B1",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "come up with",
+    "meaning": "bulmak, geliştirmek",
+    "secondary": [],
+    "explanation": "Yeni fikir veya çözüm üretmektir.",
+    "example": "We need to come up with a better plan.",
+    "exampleTR": "Daha iyi bir plan bulmamız gerekiyor.",
+    "level": "B2",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "deal with",
+    "meaning": "ilgilenmek, ele almak",
+    "secondary": [],
+    "explanation": "Bir sorun veya durumla uğraşmaktır.",
+    "example": "I will deal with this issue tomorrow.",
+    "exampleTR": "Bu konuyla yarın ilgileneceğim.",
+    "level": "B1",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "look into",
+    "meaning": "araştırmak",
+    "secondary": [],
+    "explanation": "Bir konuyu ayrıntılı incelemektir.",
+    "example": "We will look into the problem.",
+    "exampleTR": "Sorunu araştıracağız.",
+    "level": "B2",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "set up",
+    "meaning": "kurmak",
+    "secondary": [
+      "düzenlemek"
+    ],
+    "explanation": "Bir sistemi veya etkinliği hazır hâle getirmektir.",
+    "example": "Can you set up the new printer?",
+    "exampleTR": "Yeni yazıcıyı kurabilir misin?",
+    "level": "B1",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "back up",
+    "meaning": "yedeklemek",
+    "secondary": [
+      "desteklemek"
+    ],
+    "explanation": "Verinin güvenlik kopyasını oluşturmaktır.",
+    "example": "Back up your files every week.",
+    "exampleTR": "Dosyalarını her hafta yedekle.",
+    "level": "B1",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "log in",
+    "meaning": "oturum açmak",
+    "secondary": [],
+    "explanation": "Bir hesaba kimlik bilgileriyle girmektir.",
+    "example": "You need to log in first.",
+    "exampleTR": "Önce oturum açman gerekiyor.",
+    "level": "A2",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "check out",
+    "meaning": "incelemek",
+    "secondary": [
+      "otelden çıkış yapmak"
+    ],
+    "explanation": "Bir şeye bakmayı veya ayrılmayı anlatır.",
+    "example": "Check out the new café near the station.",
+    "exampleTR": "İstasyonun yanındaki yeni kafeye bir bak.",
+    "level": "B1",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "pick up",
+    "meaning": "alıp götürmek",
+    "secondary": [
+      "yerden almak",
+      "öğrenmek"
+    ],
+    "explanation": "Birini veya bir şeyi bir yerden almaktır.",
+    "example": "Can you pick up the kids today?",
+    "exampleTR": "Bugün çocukları alabilir misin?",
+    "level": "A2",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "drop off",
+    "meaning": "bırakmak",
+    "secondary": [
+      "uykuya dalmak"
+    ],
+    "explanation": "Birini veya bir şeyi bir yere götürüp bırakmaktır.",
+    "example": "I can drop off the package after work.",
+    "exampleTR": "İşten sonra paketi bırakabilirim.",
+    "level": "B1",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "break down",
+    "meaning": "bozulmak",
+    "secondary": [
+      "parçalara ayırmak"
+    ],
+    "explanation": "Bir aracın çalışmaz hâle gelmesidir.",
+    "example": "Old cars sometimes break down.",
+    "exampleTR": "Eski arabalar bazen bozulur.",
+    "level": "B1",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "get over",
+    "meaning": "atlatmak",
+    "secondary": [
+      "üstesinden gelmek"
+    ],
+    "explanation": "Zor bir durumun etkisinden kurtulmaktır.",
+    "example": "It took time to get over the disappointment.",
+    "exampleTR": "Hayal kırıklığını atlatmak zaman aldı.",
+    "level": "B2",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "catch up",
+    "meaning": "yetişmek",
+    "secondary": [
+      "aradaki açığı kapatmak"
+    ],
+    "explanation": "Geride kalınan düzeye ulaşmaktır.",
+    "example": "I need to catch up on my reading.",
+    "exampleTR": "Okumalarımdaki açığı kapatmam gerekiyor.",
+    "level": "B1",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "on purpose",
+    "meaning": "bilerek",
+    "secondary": [],
+    "explanation": "Bir eylemin kasıtlı olduğunu anlatır.",
+    "example": "I did not do it on purpose.",
+    "exampleTR": "Bunu bilerek yapmadım.",
+    "level": "B1",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  },
+  {
+    "term": "by mistake",
+    "meaning": "yanlışlıkla",
+    "secondary": [],
+    "explanation": "Bir eylemin istemeden yapıldığını belirtir.",
+    "example": "I took your bag by mistake.",
+    "exampleTR": "Çantanı yanlışlıkla aldım.",
+    "level": "A2",
+    "category": "expressions",
+    "isEstimated": false,
+    "sources": []
+  }
+]
